@@ -1,0 +1,1150 @@
+1. 500 Temel Kelime (Aile, Renk, Sayı, Temel Vücut Parçaları, Temel Eşyalar, Temel Fiiller)-
+Aile (Family)-
+Mother - Anne
+Father - Baba
+Mommy - Anne (sevimli)
+Daddy - Baba (sevimli)
+Brother - Erkek kardeş
+Sister - Kız kardeş
+Grandma - Büyük anne (anneanne/babaanne)
+Grandpa - Büyük baba (dede)
+Baby - Bebek
+Aunt - Teyze/Hala
+Uncle - Amca/Dayı
+Cousin - Kuzen
+Family - Aile
+Parents - Ebeveynler
+Child - Çocuk (tekil)
+Children - Çocuklar (çoğul)
+Son - Erkek çocuk
+Daughter - Kız çocuk
+Husband - Koca
+Wife - Karı
+Renkler (Colors)-
+Red - Kırmızı
+Blue - Mavi
+Yellow - Sarı
+Green - Yeşil
+Black - Siyah
+White - Beyaz
+Pink - Pembe
+Purple - Mor
+Orange - Turuncu
+Brown - Kahverengi
+Gray (veya Grey) - Gri
+Gold - Altın rengi
+Silver - Gümüş rengi
+Light - Açık (renk)
+Dark - Koyu (renk)
+Sayılar (Numbers)-
+One - Bir
+Two - İki
+Three - Üç
+Four - Dört
+Five - Beş
+Six - Altı
+Seven - Yedi
+Eight - Sekiz
+Nine - Dokuz
+Ten - On
+Eleven - On bir
+Twelve - On iki
+Thirteen - On üç
+Fourteen - On dört
+Fifteen - On beş
+Sixteen - On altı
+Seventeen - On yedi
+Eighteen - On sekiz
+Nineteen - On dokuz
+Twenty - Yirmi
+Temel Vücut Parçaları (Basic Body Parts)-
+Head - Kafa
+Hair - Saç
+Eyes - Gözler
+Nose - Burun
+Mouth - Ağız
+Ears - Kulaklar
+Face - Yüz
+Neck - Boyun
+Shoulders - Omuzlar
+Arms - Kollar
+Hands - Eller
+Fingers - Parmaklar (el)
+Legs - Bacaklar
+Feet - Ayaklar
+Toes - Parmaklar (ayak)
+Stomach - Karın
+Back - Sırt
+Knees - Dizler
+Elbows - Dirsekler
+Body - Vücut
+Temel Eşyalar (Basic Objects)-
+Ev (Home)-
+House - Ev
+Door - Kapı
+Window - Pencere
+Room - Oda
+Kitchen - Mutfak
+Bedroom - Yatak odası
+Bathroom - Banyo
+Living room - Oturma odası
+Table - Masa
+Chair - Sandalye
+Bed - Yatak
+Pillow - Yastık
+Blanket - Battaniye
+Lamp - Lamba
+Television - Televizyon
+Phone - Telefon
+Computer - Bilgisayar
+Book - Kitap
+Toy - Oyuncak
+Picture - Resim
+Clock - Saat
+Shelf - Raf
+Drawer - Çekmece
+Mutfak (Kitchen)-
+Cup - Fincan/Kupa
+Plate - Tabak
+Bowl - Kase
+Spoon - Kaşık
+Fork - Çatal
+Knife - Bıçak (dikkatli olun)
+Fridge - Buzdolabı
+Stove - Ocak
+Oven - Fırın
+Sink - Lavabo
+Water - Su
+Juice - Meyve suyu
+Milk - Süt
+Food - Yemek
+Apple - Elma
+Banana - Muz
+Orange - Portakal
+Bread - Ekmek
+Cheese - Peynir
+Egg - Yumurta
+Cake - Kek
+Candy - Şekerleme
+Cookie - Kurabiye
+Oyuncaklar (Toys)-
+Ball - Top
+Doll - Bebek (oyuncak)
+Car - Araba
+Truck - Kamyon
+Train - Tren
+Puzzle - Yapboz
+Blocks - Bloklar/Küp oyuncaklar
+Teddy bear - Oyuncak ayı
+Game - Oyun
+Kite - Uçurtma
+Robot - Robot
+Dışarı (Outside)-
+Tree - Ağaç
+Flower - Çiçek
+Sun - Güneş
+Moon - Ay
+Star - Yıldız
+Cloud - Bulut
+Rain - Yağmur
+Snow - Kar
+Grass - Çimen
+Ground - Yer/Zemin
+Sky - Gökyüzü
+Bird - Kuş
+Cat - Kedi
+Dog - Köpek
+Fish - Balık
+Bug - Böcek
+Leaf - Yaprak
+Stone - Taş
+Sand - Kum
+Giysiler (Clothes)-
+Shirt - Gömlek
+Pants - Pantolon
+Dress - Elbise
+Skirt - Etek
+Shoes - Ayakkabılar
+Socks - Çoraplar
+Hat - Şapka
+Coat - Palto
+Jacket - Ceket
+Gloves - Eldivenler
+Okul (School - temel)-
+Bag - Çanta
+Pencil - Kurşun kalem
+Pen - Tükenmez kalem
+Paper - Kağıt
+Crayon - Pastel boya
+Book - Kitap
+Diğer (Other)-
+Box - Kutu
+Key - Anahtar
+Money - Para
+Present - Hediye
+Soap - Sabun
+Toothbrush - Diş fırçası
+Towel - Havlu
+Temel Fiiller (Basic Verbs)-
+Go - Gitmek
+Come - Gelmek
+See - Görmek
+Hear - Duymak
+Eat - Yemek yemek
+Drink - İçmek
+Sleep - Uyumak
+Play - Oynamak
+Run - Koşmak
+Walk - Yürümek
+Sit - Oturmak
+Stand - Ayakta durmak
+Open - Açmak
+Close - Kapatmak
+Read - Okumak
+Write - Yazmak
+Draw - Çizmek
+Sing - Şarkı söylemek
+Dance - Dans etmek
+Jump - Zıplamak
+Hop - Sekmek
+Laugh - Gülmek
+Cry - Ağlamak
+Talk - Konuşmak
+Listen - Dinlemek
+Look - Bakmak
+Touch - Dokunmak
+Point - İşaret etmek
+Give - Vermek
+Take - Almak
+Put - Koymak
+Have - Sahip olmak
+Want - İstemek
+Like - Hoşlanmak
+Love - Sevmek
+Help - Yardım etmek
+Clean - Temizlemek
+Wash - Yıkamak
+Cook - Yemek pişirmek
+Count - Saymak
+Find - Bulmak
+Ask - Sormak
+Answer - Cevap vermek
+Know - Bilmek
+Think - Düşünmek
+Feel - Hissetmek
+Can - Yapabilmek
+Say - Söylemek
+Make - Yapmak
+Get - Almak/Elde etmek
+Need - İhtiyaç duymak
+Use - Kullanmak
+Call - Aramak
+Keep - Saklamak/Tutmak
+Start - Başlamak
+Stop - Durmak
+Smile - Gülümsemek
+Brush - Fırçalamak
+Climb - Tırmanmak
+Catch - Yakalamak
+Throw - Atmak
+Kick - Tekmelemek
+Hug - Sarılmak
+Carry - Taşımak
+Wait - Beklemek
+Turn - Dönmek
+Learn - Öğrenmek
+Teach - Öğretmek
+Show - Göstermek
+Wake up - Uyanmak
+Try - Denemek
+Fix - Tamir etmek
+Plant - Bitki dikmek
+Grow - Büyümek
+Meet - Tanışmak
+Remember - Hatırlamak
+Forget - Unutmak
+Choose - Seçmek
+Buy - Satın almak
+Sell - Satmak
+Travel - Seyahat etmek
+Visit - Ziyaret etmek
+Protect - Korumak
+Share - Paylaşmak
+Wait - Beklemek
+Wave - El sallamak
+Wish - Dilemek
+Work - Çalışmak
+Worry - Endişelenmek
+Yell - Bağırmak
+Zip - Fermuarı çekmek
+Comb - Saçını taramak
+Dream - Rüya görmek
+Drop - Düşürmek
+Fold - Katlamak
+Guess - Tahmin etmek
+Hide - Saklamak
+Hold - Tutmak
+Imagine - Hayal etmek
+Invite - Davet etmek
+Iron - Ütülemek
+Jog - Hafif koşu yapmak
+Knock - Kapıyı çalmak
+Lift - Kaldırmak
+Lock - Kilitlemek
+March - Marş yürüyüşü yapmak
+Measure - Ölçmek
+Mix - Karıştırmak
+Mop - Paspaslamak
+Paint - Boyamak
+Park - Park etmek
+Pass - Geçmek
+Pat - Okşamak
+Pick - Seçmek/Toplamak
+Pour - Dökmek
+Pray - Dua etmek
+Pull - Çekmek
+Push - İtmek
+Reach - Uzanmak
+Ride - Binmek (bisiklet vb.)
+Roll - Yuvarlamak
+Save - Kurtarmak/Biriktirmek
+Scrub - Ovmak
+Search - Aramak
+Sew - Dikiş dikmek
+Shake - Sallamak
+Shout - Bağırmak
+Sip - Yudumlamak
+Slide - Kaymak
+Smell - Koklamak
+Solve - Çözmek
+Sort - Sıralamak
+Spell - Hecelemek
+Stare - Dik dik bakmak
+Steal - Çalmak
+Step - Adım atmak
+Stick - Yapıştırmak
+Stir - Karıştırmak
+Stretch - Gerinmek
+Study - Çalışmak (ders)
+Sweep - Süpürmek
+Swim - Yüzmek
+Taste - Tatmak
+Tear - Yırtmak
+Tell - Söylemek
+Test - Test etmek
+Thank - Teşekkür etmek
+Tie - Bağlamak
+Tip - Bahşiş vermek
+Toss - Fırlatmak
+Trace - İzini sürmek/Kopyasını çıkarmak
+Train - Eğitmek
+Treat - Davranmak/İkram etmek
+Trick - Kandırmak
+Trim - Kırpmak
+Trust - Güvenmek
+Understand - Anlamak
+Unlock - Kilidi açmak
+Unpack - Bavuldan çıkarmak
+Untie - Çözmek (bağ)
+Vacuum - Elektrik süpürgesiyle süpürmek
+Value - Değer vermek
+Vanish - Kaybolmak
+Vary - Değişmek
+Volunteer - Gönüllü olmak
+Vote - Oy vermek
+Wander - Gezinmek
+Warn - Uyarmak
+Waste - İsraf etmek
+Watch - İzlemek
+Water - Sulamak
+Weigh - Tartmak
+Wipe - Silmek
+Wrap - Sarmak
+Yawn - Esnemek
+Yearn - Özlemek
+Zap - Hızla yok etmek
+Zoom - Yakınlaştırmak
+2. 100 Temel Hareket Fiili (Basic Action Verbs)-
+Run - Koşmak
+Walk - Yürümek
+Jump - Zıplamak
+Hop - Sekmek
+Skip - İp atlamak/Sıçramak
+Crawl - Emeklemek
+Climb - Tırmanmak
+Dance - Dans etmek
+Swim - Yüzmek
+Fly - Uçmak
+Kick - Tekmelemek
+Throw - Atmak
+Catch - Yakalamak
+Push - İtmek
+Pull - Çekmek
+Lift - Kaldırmak
+Carry - Taşımak
+Hold - Tutmak
+Drop - Düşürmek
+Pick up - Yerden almak
+Put down - Yere bırakmak
+Bend - Eğilmek
+Stretch - Gerinmek
+Shake - Sallamak
+Nod - Başını sallamak (onay)
+Point - İşaret etmek
+Wave - El sallamak
+Clap - El çırpmak
+Touch - Dokunmak
+Turn - Dönmek
+Roll - Yuvarlamak
+Spin - Dönmek (kendi etrafında)
+Sit - Oturmak
+Stand - Ayakta durmak
+Lie down - Uzanmak
+Get up - Kalkmak
+Move - Hareket etmek
+Reach - Uzanmak
+Grab - Kapmak
+Open - Açmak
+Close - Kapatmak
+Push - İtmek
+Pull - Çekmek
+Write - Yazmak
+Draw - Çizmek
+Paint - Boyamak
+Cut - Kesmek
+Paste - Yapıştırmak
+Build - İnşa etmek
+Dig - Kazmak
+Plant - Dikmek (bitki)
+Water - Sulamak
+Eat - Yemek yemek
+Drink - İçmek
+Sleep - Uyumak
+Wake up - Uyanmak
+Wash - Yıkamak
+Brush - Fırçalamak
+Comb - Saçını taramak
+Dress - Giyinmek
+Undress - Soyunmak
+Smile - Gülümsemek
+Frown - Kaşlarını çatmak
+Laugh - Gülmek
+Cry - Ağlamak
+Talk - Konuşmak
+Listen - Dinlemek
+Look - Bakmak
+See - Görmek
+Hear - Duymak
+Smell - Koklamak
+Taste - Tatmak
+Feel - Hissetmek
+Think - Düşünmek
+Know - Bilmek
+Learn - Öğrenmek
+Teach - Öğretmek
+Show - Göstermek
+Help - Yardım etmek
+Share - Paylaşmak
+Give - Vermek
+Take - Almak
+Ask - Sormak
+Answer - Cevap vermek
+Say - Söylemek
+Make - Yapmak
+Play - Oynamak
+Read - Okumak
+Sing - Şarkı söylemek
+Count - Saymak
+Find - Bulmak
+Hide - Saklamak
+Seek - Aramak
+Guess - Tahmin etmek
+Try - Denemek
+Work - Çalışmak
+Clean - Temizlemek
+Cook - Yemek pişirmek
+3. 100 Temel Konuşma Kalıbı (Basic Conversational Phrases)-
+Hello - Merhaba
+Hi - Merhaba
+Bye - Güle güle
+Goodbye - Güle güle
+Good morning - Günaydın
+Good afternoon - Tünaydın
+Good evening - İyi akşamlar
+Good night - İyi geceler
+Please - Lütfen
+Thank you - Teşekkür ederim
+You're welcome - Rica ederim
+Excuse me - Afedersiniz
+Sorry - Üzgünüm/Afedersiniz
+Yes - Evet
+No - Hayır
+Maybe - Belki
+I don't know - Bilmiyorum
+I understand - Anlıyorum
+I don't understand - Anlamıyorum
+Can you help me? - Bana yardım edebilir misin?
+What is this? - Bu ne?
+What is that? - Şu ne?
+Who is this? - Bu kim?
+Who is that? - Şu kim?
+Where is...? - ... nerede?
+How are you? - Nasılsın?
+I am fine, thank you. - İyiyim, teşekkür ederim.
+What's your name? - Adın ne?
+My name is... - Benim adım...
+Nice to meet you - Tanıştığıma memnun oldum
+See you later - Sonra görüşürüz
+Have a good day - İyi günler
+Have fun - İyi eğlenceler
+Be careful - Dikkatli ol
+I like it - Bunu beğendim
+I don't like it - Bunu beğenmedim
+I want this - Bunu istiyorum
+I don't want that - Onu istemiyorum
+Let's go - Hadi gidelim
+Come here - Buraya gel
+Look at this - Buna bak
+Listen to me - Beni dinle
+Wait a minute - Bir dakika bekle
+Hurry up - Çabuk ol
+Slow down - Yavaşla
+Be quiet - Sessiz ol
+That's right - Bu doğru
+That's wrong - Bu yanlış
+Very good - Çok iyi
+Well done - Aferin
+Try again - Tekrar dene
+I am happy - Mutluyum
+I am sad - Üzgünüm
+I am tired - Yorgunum
+I am hungry - Açım
+I am thirsty - Susadım
+I am cold - Üşüyorum
+I am hot - Sıcaktı
+I am sleepy - Uykum var
+I am sick - Hastayım
+I love you - Seni seviyorum
+I miss you - Seni özledim
+What are you doing? - Ne yapıyorsun?
+I am playing - Oynuyorum
+I am eating - Yemek yiyorum
+I am drinking - İçiyorum
+I am sleeping - Uyuyorum
+Can I have...? - ... alabilir miyim?
+May I go...? - ... gidebilir miyim?
+It's time for... - ... zamanı
+Let's... - Hadi...
+Do you like...? - ... sever misin?
+What color is it? - Bu ne renk?
+How many...? - Kaç tane...?
+It's big - Bu büyük
+It's small - Bu küçük
+It's hot - Bu sıcak
+It's cold - Bu soğuk
+It's yummy - Bu lezzetli
+It's dirty - Bu kirli
+It's clean - Bu temiz
+It's noisy - Bu gürültülü
+It's quiet - Bu sessiz
+I can do it - Bunu yapabilirim
+I can't do it - Bunu yapamam
+Help me, please - Lütfen yardım et
+Thank you for your help - Yardımın için teşekkür ederim
+I need help - Yardıma ihtiyacım var
+It's okay - Sorun değil/Tamam
+No problem - Sorun değil
+That's all - Hepsi bu
+One more time - Bir kez daha
+Again, please - Tekrar lütfen
+Good job! - İyi iş çıkardın!
+Yaygın Hareketler (Common Actions)-
+Open the box - Kutuyu aç
+Close the box - Kutuyu kapat
+Open the window - Pencereyi aç
+Close the window - Pencereyi kapat
+Open the door - Kapıyı aç
+Close the door - Kapıyı kapat
+Cover it - Üzerini ört
+Pull the drawer - Çekmeceyi çek
+Push the drawer - Çekmeceyi it
+Put it under - Altına koy
+Put it on - Üzerine koy
+Put it in - İçine koy
+Take it out - Dışına çıkar
+Turn on the light - Işığı aç
+Turn off the light - Işığı kapat
+Look up - Yukarı bak
+Look down - Aşağı bak
+Sit down - Otur
+Stand up - Kalk
+Pick it up - Onu yerden al
+Put it away - Onu yerine koy
+Clean up - Toparlan/Temizle
+Wash your hands - Ellerini yıka
+Dry your hands - Ellerini kurula
+Put on your shoes - Ayakkabılarını giy
+Take off your shoes - Ayakkabılarını çıkar
+Put on your coat - Montunu giy
+Take off your coat - Montunu çıkar
+Read the book - Kitabı oku
+Write your name - Adını yaz
+Draw a picture - Resim çiz
+Color it - Onu boya
+Cut the paper - Kağıdı kes
+Fold the paper - Kağıdı katla
+Listen carefully - Dikkatlice dinle
+Speak softly - Yavaşça konuş
+Speak loudly - Yüksek sesle konuş
+Share your toys - Oyuncaklarını paylaş
+Help me - Bana yardım et
+Let's play - Hadi oynayalım
+Let's eat - Hadi yemek yiyelim
+Let's drink - Hadi içelim
+Let's sleep - Hadi uyuyalım
+Let's go outside - Hadi dışarı çıkalım
+Come inside - İçeri gel
+Hurry up - Çabuk ol
+Slow down - Yavaşla
+Be careful - Dikkatli ol
+Wait for me - Beni bekle
+Follow me - Beni takip et
+Stop now - Şimdi dur
+Start now - Şimdi başla
+Try again - Tekrar dene
+Look at me - Bana bak
+Listen to me - Beni dinle
+Show me - Bana göster
+Tell me - Bana söyle
+Ask me - Bana sor
+Answer me - Bana cevap ver
+Point to it - Onu işaret et
+Touch it - Ona dokun
+Smell it - Onu kokla
+Taste it - Onu tat
+Hold my hand - Elimi tut
+Let go - Bırak
+Give it to me - Onu bana ver
+Take it from me - Onu benden al
+Put it back - Onu geri koy
+Find it - Onu bul
+Lose it - Onu kaybet
+Remember this - Bunu hatırla
+Forget it - Onu unut
+Choose one - Birini seç
+Count them - Onları say
+Line up - Sıraya girin
+Circle it - Onu daire içine al
+Cross it out - Üzerini çizin
+Match them - Onları eşleştirin
+Glue it - Onu yapıştır
+Tape it - Onu bantla
+Stack them - Onları üst üste koy
+Knock on the door - Kapıyı çal
+Ring the bell - Zili çal
+Catch the ball - Topu yakala
+Throw the ball - Topu at
+Kick the ball - Topu tekmele
+Bounce the ball - Topu sektir
+Wash the toy - Oyuncağı yıka
+Dry the toy - Oyuncağı kurula
+Yön Belirten Kelimeler (Direction Words)-
+Up - Yukarı
+Down - Aşağı
+Left - Sol
+Right - Sağ
+Top - Üst
+Bottom - Alt
+Side - Yan
+Next to - Yanında
+In front of - Önünde
+Behind - Arkasında
+Under - Altında
+Over - Üzerinde
+Inside - İçinde
+Outside - Dışında
+Between - Arasında
+Gerekli Olabilecek Diğer Kelimeler (Other Necessary Words)-
+Duygular (Feelings)-
+Happy - Mutlu
+Sad - Üzgün
+Angry - Kızgın
+Scared - Korkmuş
+Excited - Heyecanlı
+Surprised - Şaşırmış
+Tired - Yorgun
+Bored - Sıkılmış
+Sıfatlar (Adjectives - Temel)-
+Big - Büyük
+Small - Küçük
+Hot - Sıcak
+Cold - Soğuk
+Good - İyi
+Bad - Kötü
+Fast - Hızlı
+Slow - Yavaş
+Loud - Gürültülü
+Quiet - Sessiz
+Clean - Temiz
+Dirty - Kirli
+Wet - Islak
+Dry - Kuru
+Full - Tok/Dolu
+Empty - Boş
+New - Yeni
+Old - Eski
+Easy - Kolay
+Hard - Zor
+Zaman (Time - Temel)-
+Day - Gün
+Night - Gece
+Morning - Sabah
+Afternoon - Öğleden sonra
+Evening - Akşam
+Today - Bugün
+Tomorrow - Yarın
+Yesterday - Dün
+Now - Şimdi
+Later - Sonra
+Soru Kelimeleri (Question Words - Temel)-
+What - Ne
+Who - Kim
+Where - Nerede
+When - Ne zaman
+Why - Neden
+How - Nasıl
+İyelik Zamirleri (Possessive Pronouns - Temel)-
+My - Benim
+Your - Senin
+His - Onun (erkek)
+Her - Onun (kadın)
+Its - Onun (cansız/hayvan)
+Yardımcı Fiiller (Auxiliary Verbs - Temel)-
+Is - -dir/-dır (tekil için)
+Are - -dirler/-dırlar (çoğul için)
+Am - -im/-ım (ben için)
+Temel Eşyalar (Basic Objects - Daha Fazla Kelime)-
+Ev (Home - Eklemeler)-
+Roof - Çatı
+Wall - Duvar
+Floor - Zemin/Taban
+Ceiling - Tavan
+Stairs - Merdivenler
+Balcony - Balkon
+Garden - Bahçe
+Garage - Garaj
+Chimney - Baca
+Curtain - Perde
+Rug - Halı/Kilim
+Sofa - Kanepe
+Armchair - Koltuk
+Mirror - Ayna
+Radio - Radyo
+DVD player - DVD oynatıcı
+Vacuum cleaner - Elektrik süpürgesi
+Washing machine - Çamaşır makinesi
+Dryer - Kurutma makinesi
+Iron (eşya) - Ütü
+Ironing board - Ütü masası
+Mutfak (Kitchen - Eklemeler)-
+Pan - Tava
+Pot - Tencere
+Lid - Tencere kapağı
+Kettle - Su ısıtıcısı
+Toaster - Tost makinesi
+Blender - Blender
+Mixer - Mikser
+Napkin - Peçete
+Tray - Tepsi
+Bottle - Şişe
+Can - Konserve kutusu
+Jar - Kavanoz
+Salt - Tuz
+Pepper - Biber
+Sugar - Şeker
+Butter - Tereyağı
+Oil - Yağ
+Jam - Reçel
+Honey - Bal
+Cereal - Kahvaltılık gevrek
+Yogurt - Yoğurt (tekrar vurgu)
+Oyuncaklar (Toys - Eklemeler)-
+Puzzle (daha fazla çeşit) - Yapboz
+Building blocks (daha fazla çeşit) - Yapı taşları
+Crayons (daha fazla çeşit) - Boya kalemleri
+Markers - Keçeli kalemler
+Scissors (çocuklar için) - Makas (çocuk)
+Glue - Yapıştırıcı
+Tape - Bant
+Stuffed animal - Peluş oyuncak
+Scooter - Scooter
+Skateboard - Kaykay
+Helmet - Kask
+Swing - Salıncak
+Slide (oyuncak) - Kaydırak
+Sandbox - Kum havuzu
+Dışarı (Outside - Eklemeler)-
+Hill - Tepe
+Lake - Göl
+River - Nehir
+Flower (daha fazla çeşit) - Çiçek
+Tree (daha fazla çeşit) - Ağaç
+Bench - Bank
+Fence - Çit
+Gate - Kapı (bahçe)
+Puddle - Su birikintisi
+Rainbow - Gökkuşağı
+Giysiler (Clothes - Eklemeler)-
+Pajamas - Pijama
+Underwear - İç çamaşırı
+Sweater - Kazak
+Jeans - Kot pantolon
+Shorts - Şort
+Belt - Kemer
+Scarf - Atkı
+Mittens - Eldiven (tek parmaklı)
+Boots - Botlar
+Slippers - Terlikler
+Button - Düğme
+Zipper - Fermuar
+Okul (School - daha fazla)-
+Desk - Sıra
+Teacher - Öğretmen
+Friend - Arkadaş
+Playground - Oyun alanı
+Blackboard - Kara tahta
+Chalk - Tebeşir
+Eraser - Silgi
+Diğer (Other - daha fazla)-
+Umbrella - Şemsiye
+Toothpaste - Diş macunu
+Comb - Tarak
+Brush (saç fırçası) - Fırça (saç)
+Mirror (küçük) - Ayna (küçük)
+Soap (daha fazla çeşit) - Sabun
+Towel (daha fazla çeşit) - Havlu
+Band-aid - Yara bandı
+Temel Fiiller (Basic Verbs - Daha Fazla Kelime)-
+Whisper - Fısıldamak
+Shout - Bağırmak (zaten listede var, vurgu için tekrar eklendi)
+Catch - Yakalamak (zaten listede var, vurgu için tekrar eklendi)
+Throw - Atmak (zaten listede var, vurgu için tekrar eklendi)
+Push - İtmek (zaten listede var, vurgu için tekrar eklendi)
+Pull - Çekmek (zaten listede var, vurgu için tekrar eklendi)
+Build - İnşa etmek
+Paint - Boyamak (fırça ile)
+Color - Boyamak (kalemlerle)
+Cut - Kesmek
+Paste - Yapıştırmak
+Glue - Yapıştırmak (tutkalla)
+Stir - Karıştırmak (zaten listede var)
+Pour - Dökmek (zaten listede var)
+Share - Paylaşmak (zaten listede var)
+Frown - Kaşlarını çatmak
+Yawn - Esnemek (zaten listede var)
+Clap - El çırpmak
+Pat - Okşamak
+Tickle - Gıdıklamak
+Kiss - Öpmek
+Nod (başını sallamak) - Başını sallamak (onay)
+Shake (başını sallamak) - Başını sallamak (hayır)
+Whisper (tekrar) - Fısıldamak
+Shout (tekrar) - Bağırmak
+Watch (izlemek) - İzlemek
+Let go - Bırakmak
+Turn on - Açmak (ışık vb.)
+Turn off - Kapatmak (ışık vb.)
+Lose - Kaybetmek
+2. Temel Hareket Fiili Listesine Eklemeler (Daha Fazla Kelime)-
+Blink - Göz kırpmak
+Cough - Öksürmek
+Hiccup - Hıçkırmak
+Kneel - Diz çökmek
+Shiver - Titremek
+Sniff - Burnunu çekmek
+Sneeze - Hapşırmak
+Swallow - Yutmak
+Tap - Hafifçe vurmak
+Wiggle - Kıpırdatmak
+Rub - Ovmak
+Scratch - Kaşımak
+Shrug - Omuz silkmek
+Sigh - İç çekmek
+Snap (parmakları) - Parmak şıklatmak
+Stomp - Ayaklarını yere vurmak
+Swing (kolları/bacakları) - Sallamak (kol/bacak)
+Bounce (topu) - Sektirmek (top)
+Chase - Kovalamak
+Dive - Dalmak
+Float - Yüzmek (suda)
+Gallop - Dört nala koşmak
+Hang - Asmak
+Leap - Sıçramak
+Paddle - Kürek çekmek
+Pedal - Pedal çevirmek
+Race - Yarışmak
+Row - Kürek çekmek
+Skate - Kaymak (buz pateni vb.)
+Ski - Kayak yapmak
+Somersault - Takla atmak
+Sprint - Hızlı koşmak
+Trot - Tırıs gitmek
+Vault - Sıçrayarak geçmek
+Wobble - Sallanmak
+Zoom (hareket olarak) - Hızla hareket etmek
+3. Temel Konuşma Kalıbı Listesine Eklemeler (Daha Fazla Kelime)-
+What's wrong? - Ne oldu? (üzgün bir ifade için)
+Are you happy? - Mutlu musun?
+Are you sad? - Üzgün müsün?
+Are you angry? - Kızgın mısın?
+Are you scared? - Korktun mu?
+I am excited! - Çok heyecanlıyım!
+That's funny! - Bu komik!
+I am sorry - Üzgünüm (daha vurgulu)
+It's okay - Tamam (teselli ederken)
+Never mind - Boşver
+That's enough - Bu kadar yeter
+One more, please - Bir tane daha lütfen
+Can I have some more? - Biraz daha alabilir miyim?
+I want to play with you - Seninle oynamak istiyorum
+Let's build something - Hadi bir şeyler inşa edelim
+Let's read a book - Hadi bir kitap okuyalım
+Let's sing a song - Hadi bir şarkı söyleyelim
+Let's go to the park - Hadi parka gidelim
+Let's go home - Hadi eve gidelim
+I am finished - Ben bitirdim
+It's all gone - Hepsi bitti
+Where did it go? - O nereye gitti?
+I can't find it - Onu bulamıyorum
+Help me find it - Onu bulmama yardım et
+I like this one - Bunu beğendim
+I don't like that one - Onu beğenmedim
+This is mine - Bu benim
+That is yours - O senin
+It's our turn - Bizim sıramız
+Can we share? - Paylaşabilir miyiz?
+Be kind to your friends - Arkadaşlarına nazik ol
+Wait your turn - Sıranı bekle
+Good job! (daha fazla vurgu) - Aferin!
+You did it! - Yaptın!
+I am proud of you - Seninle gurur duyuyorum
+Let me help you - Sana yardım edeyim
+Thank you for being kind - Nazik olduğun için teşekkür ederim
+I forgive you - Seni affediyorum
+I forgive you too - Ben de seni affediyorum
+Let's be friends - Hadi arkadaş olalım
+I am your friend - Ben senin arkadaşınım
+You are my friend - Sen benim arkadaşımsın
+I miss my mommy - Annemi özledim
+I miss my daddy - Babamı özledim
+I want my mommy - Annemi istiyorum
+I want my daddy - Babamı istiyorum
+I need a hug - Bir sarılmaya ihtiyacım var
+Can I have a hug? - Sarılabilir miyim?
+I am feeling happy today - Bugün mutlu hissediyorum
+I am feeling sad today - Bugün üzgün hissediyorum
+I am feeling angry today - Bugün kızgın hissediyorum
+I am feeling tired today - Bugün yorgun hissediyorum
+What's the matter? - Ne var? (endişe ile)
+Are you hurt? - Canın yandı mı?
+Let me see - Bir bakayım
+It will be okay - İyi olacak
+Don't worry - Endişelenme
+Everything is okay - Her şey yolunda
+I love you very much - Seni çok seviyorum
+You are special - Sen özelsin
+You are important to me - Benim için önemlisin
+Temel Vücut Parçaları (Basic Body Parts - Eklemeler)-
+Eyebrows - Kaşlar
+Eyelashes - Kirpikler
+Cheeks - Yanaklar
+Chin - Çene
+Teeth - Dişler
+Tongue - Dil
+Lips - Dudaklar
+Thumb - Başparmak
+Wrist - Bilek
+Ankle - Ayak bileği
+Heel - Topuk
+Toe nail - Ayak tırnağı
+Finger nail - El tırnağı
+Skin - Cilt
+Bone - Kemik
+Sayılar (Numbers - Eklemeler)-
+Thirty - Otuz
+Forty - Kırk
+Fifty - Elli
+Sixty - Altmış
+Seventy - Yetmiş
+Eighty - Seksen
+Ninety - Doksan
+Hundred - Yüz
+Zero - Sıfır
+First - Birinci
+Second - İkinci
+1. Temel Kelime Listesine Eklemeler-
+Hayvanlar (Animals)-
+Lion - Aslan
+Tiger - Kaplan
+Elephant - Fil
+Monkey - Maymun
+Bear - Ayı
+Cow - İnek
+Pig - Domuz
+Sheep - Koyun
+Horse - At
+Duck - Ördek
+Chicken - Tavuk
+Mouse - Fare
+Rabbit - Tavşan
+Frog - Kurbağa
+Snake - Yılan
+Bee - Arı
+Ant - Karınca
+Butterfly - Kelebek
+Ladybug - Uğur böceği
+Yiyecekler (Food - Eklemeler)-
+Watermelon - Karpuz
+Strawberry - Çilek
+Grape - Üzüm
+Pineapple - Ananas
+Carrot - Havuç
+Tomato - Domates
+Potato - Patates
+Corn - Mısır
+Peas - Bezelye
+Broccoli - Brokoli
+Rice - Pirinç
+Pasta - Makarna
+Meat - Et
+Chicken (yiyecek olarak) - Tavuk
+Fish (yiyecek olarak) - Balık
+Soup - Çorba
+Ice cream - Dondurma
+Yogurt - Yoğurt
+Araçlar (Vehicles)-
+Bus - Otobüs
+Bike - Bisiklet
+Boat - Tekne
+Airplane - Uçak
+Yerler (Places - Temel)-
+Park - Park
+School - Okul
+Store - Mağaza
+Beach - Plaj
+Zoo - Hayvanat bahçesi
+2. Temel Hareket Fiili Listesine Eklemeler-
+Catch - Yakalamak (zaten listede var, vurgu için tekrar eklendi)
+Ride (a bike) - (Bisiklet) sürmek
+Drive (a car - ilerleyen yaşlar için temel) - (Araba) sürmek
+Dig - Kazmak (zaten listede var)
+Throw - Atmak (zaten listede var)
+3. Temel Konuşma Kalıbı Listesine Eklemeler-
+What happened? - Ne oldu?
+Are you okay? - İyi misin?
+I am happy to see you - Seni gördüğüme sevindim.
+Can I play too? - Ben de oynayabilir miyim?
+It's my turn - Benim sıram
+Your turn - Senin sıran
+Let's share - Hadi paylaşalım
+Be nice - Kibar ol
+Say please - Lütfen de
+Say thank you - Teşekkür et
+I need to go to the bathroom - Tuvalete gitmem gerekiyor.
+I am all done - Ben bitirdim.
+More, please - Biraz daha lütfen.
+All done - Hepsi bitti.
+Help me open this - Bunu açmama yardım et.
+Help me close this - Bunu kapatmama yardım et.
+Ek Olarak Gerekli Olabilecek Kelimeler-
+Zamirler (Pronouns)-
+I - Ben
+You - Sen
+He - O (erkek)
+She - O (kadın)
+It - O (cansız/hayvan)
+We - Biz
+They - Onlar
+Soru Kelimeleri (Question Words - Ek)-
+How many? - Kaç tane?
+How old? - Kaç yaşında?
+Bağlaçlar (Conjunctions - Temel)-
+And - Ve
+But - Ama
+Or - Veya
+Daha Fazla Günlük Basit Konuşma Cümlesi-
+Good morning, sunshine! - Günaydın, güneşim!
+Time to get up! - Kalkma zamanı!
+Did you sleep well? - İyi uyudun mu?
+I had a good dream. - Güzel bir rüya gördüm.
+What do you want for breakfast? - Kahvaltıda ne istersin?
+Let's eat breakfast. - Hadi kahvaltı yapalım.
+This is yummy! - Bu çok lezzetli!
+Can I have some more juice? - Biraz daha meyve suyu alabilir miyim?
+I am still hungry. - Hala açım.
+I am all finished with my breakfast. - Kahvaltımı bitirdim.
+Time to brush your teeth. - Dişlerini fırçalama zamanı.
+Let's wash your face. - Hadi yüzünü yıkayalım.
+Get dressed, please. - Lütfen giyin.
+Where are your shoes? - Ayakkabıların nerede?
+Let's go outside. - Hadi dışarı çıkalım.
+What do you want to play? - Ne oynamak istersin?
+Can we play with...? - ... ile oynayabilir miyiz?
+Let's play hide-and-seek. - Hadi saklambaç oynayalım.
+It's your turn to hide. - Saklanma sırası sende.
+I found you! - Seni buldum!
+Let's build a tower. - Hadi bir kule yapalım.
+Be careful, it might fall. - Dikkatli ol, düşebilir.
+Can you help me? - Bana yardım edebilir misin?
+Thank you for helping me. - Bana yardım ettiğin için teşekkür ederim.
+I want to show you something. - Sana bir şey göstermek istiyorum.
+Look what I made! - Bak ne yaptım!
+That's so cool! - Bu çok havalı!
+Can I try? - Deneyebilir miyim?
+It's my turn now. - Şimdi benim sıram.
+Let's share our toys. - Oyuncaklarımızı paylaşalım.
+This is my favorite toy. - Bu benim en sevdiğim oyuncak.
+I like playing with you. - Seninle oynamayı seviyorum.
+Let's clean up our toys. - Hadi oyuncaklarımızı toplayalım.
+Where does this go? - Bu nereye gidiyor?
+Put it in the box. - Onu kutuya koy.
+Everything is tidy now. - Şimdi her şey düzenli.
+Time for a snack. - Atıştırma zamanı.
+What would you like for a snack? - Atıştırmalık olarak ne istersin?
+Can I have a cookie? - Bir kurabiye alabilir miyim?
+Let's read a story. - Hadi bir hikaye okuyalım.
+Which book do you want to read? - Hangi kitabı okumak istersin?
+This story is funny! - Bu hikaye komik!
+I like this part. - Bu kısmı beğendim.
+What happens next? - Sonra ne oluyor?
+Time for a nap. - Öğle uykusu zamanı.
+Let's lie down. - Hadi uzanalım.
+Close your eyes. - Gözlerini kapat.
+Sweet dreams! - Tatlı rüyalar!
+Did you have a good nap? - İyi bir öğle uykusu uyudun mu?
+Time to wake up. - Uyanma zamanı.
+Let's go for a walk. - Hadi yürüyüşe çıkalım.
+Hold my hand. - Elimi tut.
+Look at the birds! - Kuşlara bak!
+That flower smells nice. - O çiçeğin kokusu güzel.
+Let's go to the park. - Hadi parka gidelim.
+Can we go on the swings? - Salıncaklara binebilir miyiz?
+Push me, please. - Lütfen beni it.
+Be careful on the slide. - Kaydırakta dikkatli ol.
+Let's go home now. - Hadi şimdi eve gidelim.
+Time for dinner. - Akşam yemeği zamanı.
+What's for dinner? - Akşam yemeğinde ne var?
+This smells delicious! - Bu çok lezzetli kokuyor!
+Can I have some more, please? - Biraz daha alabilir miyim lütfen?
+I am full. - Doydum.
+Thank you for the delicious dinner. - Lezzetli akşam yemeği için teşekkür ederim.
+Time for a bath. - Banyo zamanı.
+Let's wash your hair. - Hadi saçını yıkayalım.
+The water is warm. - Su ılık.
+Let's dry you off. - Hadi seni kurulayalım.
+Put on your pajamas. - Pijamalarını giy.
+Time for bed. - Yatma zamanı.
+Let's read one more story. - Hadi bir hikaye daha okuyalım.
+I love you very much. - Seni çok seviyorum.
+Good night, sleep tight. - İyi geceler, mışıl mışıl uyu.
+See you in the morning. - Sabah görüşürüz.

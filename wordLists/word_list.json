@@ -1,0 +1,4494 @@
+[
+    {
+        "word": "apple",
+        "meaning": "meyve"
+    },
+    {
+        "word": "book",
+        "meaning": "kitap"
+    },
+    {
+        "word": "car",
+        "meaning": "araba"
+    },
+    {
+        "word": "Mother",
+        "meaning": "Anne"
+    },
+    {
+        "word": "Father",
+        "meaning": "Baba"
+    },
+    {
+        "word": "Mommy",
+        "meaning": "Anne (sevimli)"
+    },
+    {
+        "word": "Daddy",
+        "meaning": "Baba (sevimli)"
+    },
+    {
+        "word": "Brother",
+        "meaning": "Erkek kardeş"
+    },
+    {
+        "word": "Sister",
+        "meaning": "Kız kardeş"
+    },
+    {
+        "word": "Grandma",
+        "meaning": "Büyük anne (anneanne/babaanne)"
+    },
+    {
+        "word": "Grandpa",
+        "meaning": "Büyük baba (dede)"
+    },
+    {
+        "word": "Baby",
+        "meaning": "Bebek"
+    },
+    {
+        "word": "Aunt",
+        "meaning": "Teyze/Hala"
+    },
+    {
+        "word": "Uncle",
+        "meaning": "Amca/Dayı"
+    },
+    {
+        "word": "Cousin",
+        "meaning": "Kuzen"
+    },
+    {
+        "word": "Family",
+        "meaning": "Aile"
+    },
+    {
+        "word": "Parents",
+        "meaning": "Ebeveynler"
+    },
+    {
+        "word": "Child",
+        "meaning": "Çocuk (tekil)"
+    },
+    {
+        "word": "Children",
+        "meaning": "Çocuklar (çoğul)"
+    },
+    {
+        "word": "Son",
+        "meaning": "Erkek çocuk"
+    },
+    {
+        "word": "Daughter",
+        "meaning": "Kız çocuk"
+    },
+    {
+        "word": "Husband",
+        "meaning": "Koca"
+    },
+    {
+        "word": "Wife",
+        "meaning": "Karı"
+    },
+    {
+        "word": "Red",
+        "meaning": "Kırmızı"
+    },
+    {
+        "word": "Blue",
+        "meaning": "Mavi"
+    },
+    {
+        "word": "Yellow",
+        "meaning": "Sarı"
+    },
+    {
+        "word": "Green",
+        "meaning": "Yeşil"
+    },
+    {
+        "word": "Black",
+        "meaning": "Siyah"
+    },
+    {
+        "word": "White",
+        "meaning": "Beyaz"
+    },
+    {
+        "word": "Pink",
+        "meaning": "Pembe"
+    },
+    {
+        "word": "Purple",
+        "meaning": "Mor"
+    },
+    {
+        "word": "Orange",
+        "meaning": "Turuncu"
+    },
+    {
+        "word": "Brown",
+        "meaning": "Kahverengi"
+    },
+    {
+        "word": "Gray (veya Grey)",
+        "meaning": "Gri"
+    },
+    {
+        "word": "Gold",
+        "meaning": "Altın rengi"
+    },
+    {
+        "word": "Silver",
+        "meaning": "Gümüş rengi"
+    },
+    {
+        "word": "Light",
+        "meaning": "Açık (renk)"
+    },
+    {
+        "word": "Dark",
+        "meaning": "Koyu (renk)"
+    },
+    {
+        "word": "One",
+        "meaning": "Bir"
+    },
+    {
+        "word": "Two",
+        "meaning": "İki"
+    },
+    {
+        "word": "Three",
+        "meaning": "Üç"
+    },
+    {
+        "word": "Four",
+        "meaning": "Dört"
+    },
+    {
+        "word": "Five",
+        "meaning": "Beş"
+    },
+    {
+        "word": "Six",
+        "meaning": "Altı"
+    },
+    {
+        "word": "Seven",
+        "meaning": "Yedi"
+    },
+    {
+        "word": "Eight",
+        "meaning": "Sekiz"
+    },
+    {
+        "word": "Nine",
+        "meaning": "Dokuz"
+    },
+    {
+        "word": "Ten",
+        "meaning": "On"
+    },
+    {
+        "word": "Eleven",
+        "meaning": "On bir"
+    },
+    {
+        "word": "Twelve",
+        "meaning": "On iki"
+    },
+    {
+        "word": "Thirteen",
+        "meaning": "On üç"
+    },
+    {
+        "word": "Fourteen",
+        "meaning": "On dört"
+    },
+    {
+        "word": "Fifteen",
+        "meaning": "On beş"
+    },
+    {
+        "word": "Sixteen",
+        "meaning": "On altı"
+    },
+    {
+        "word": "Seventeen",
+        "meaning": "On yedi"
+    },
+    {
+        "word": "Eighteen",
+        "meaning": "On sekiz"
+    },
+    {
+        "word": "Nineteen",
+        "meaning": "On dokuz"
+    },
+    {
+        "word": "Twenty",
+        "meaning": "Yirmi"
+    },
+    {
+        "word": "Head",
+        "meaning": "Kafa"
+    },
+    {
+        "word": "Hair",
+        "meaning": "Saç"
+    },
+    {
+        "word": "Eyes",
+        "meaning": "Gözler"
+    },
+    {
+        "word": "Nose",
+        "meaning": "Burun"
+    },
+    {
+        "word": "Mouth",
+        "meaning": "Ağız"
+    },
+    {
+        "word": "Ears",
+        "meaning": "Kulaklar"
+    },
+    {
+        "word": "Face",
+        "meaning": "Yüz"
+    },
+    {
+        "word": "Neck",
+        "meaning": "Boyun"
+    },
+    {
+        "word": "Shoulders",
+        "meaning": "Omuzlar"
+    },
+    {
+        "word": "Arms",
+        "meaning": "Kollar"
+    },
+    {
+        "word": "Hands",
+        "meaning": "Eller"
+    },
+    {
+        "word": "Fingers",
+        "meaning": "Parmaklar (el)"
+    },
+    {
+        "word": "Legs",
+        "meaning": "Bacaklar"
+    },
+    {
+        "word": "Feet",
+        "meaning": "Ayaklar"
+    },
+    {
+        "word": "Toes",
+        "meaning": "Parmaklar (ayak)"
+    },
+    {
+        "word": "Stomach",
+        "meaning": "Karın"
+    },
+    {
+        "word": "Back",
+        "meaning": "Sırt"
+    },
+    {
+        "word": "Knees",
+        "meaning": "Dizler"
+    },
+    {
+        "word": "Elbows",
+        "meaning": "Dirsekler"
+    },
+    {
+        "word": "Body",
+        "meaning": "Vücut"
+    },
+    {
+        "word": "House",
+        "meaning": "Ev"
+    },
+    {
+        "word": "Door",
+        "meaning": "Kapı"
+    },
+    {
+        "word": "Window",
+        "meaning": "Pencere"
+    },
+    {
+        "word": "Room",
+        "meaning": "Oda"
+    },
+    {
+        "word": "Kitchen",
+        "meaning": "Mutfak"
+    },
+    {
+        "word": "Bedroom",
+        "meaning": "Yatak odası"
+    },
+    {
+        "word": "Bathroom",
+        "meaning": "Banyo"
+    },
+    {
+        "word": "Living room",
+        "meaning": "Oturma odası"
+    },
+    {
+        "word": "Table",
+        "meaning": "Masa"
+    },
+    {
+        "word": "Chair",
+        "meaning": "Sandalye"
+    },
+    {
+        "word": "Bed",
+        "meaning": "Yatak"
+    },
+    {
+        "word": "Pillow",
+        "meaning": "Yastık"
+    },
+    {
+        "word": "Blanket",
+        "meaning": "Battaniye"
+    },
+    {
+        "word": "Lamp",
+        "meaning": "Lamba"
+    },
+    {
+        "word": "Television",
+        "meaning": "Televizyon"
+    },
+    {
+        "word": "Phone",
+        "meaning": "Telefon"
+    },
+    {
+        "word": "Computer",
+        "meaning": "Bilgisayar"
+    },
+    {
+        "word": "Book",
+        "meaning": "Kitap"
+    },
+    {
+        "word": "Toy",
+        "meaning": "Oyuncak"
+    },
+    {
+        "word": "Picture",
+        "meaning": "Resim"
+    },
+    {
+        "word": "Clock",
+        "meaning": "Saat"
+    },
+    {
+        "word": "Shelf",
+        "meaning": "Raf"
+    },
+    {
+        "word": "Drawer",
+        "meaning": "Çekmece"
+    },
+    {
+        "word": "Cup",
+        "meaning": "Fincan/Kupa"
+    },
+    {
+        "word": "Plate",
+        "meaning": "Tabak"
+    },
+    {
+        "word": "Bowl",
+        "meaning": "Kase"
+    },
+    {
+        "word": "Spoon",
+        "meaning": "Kaşık"
+    },
+    {
+        "word": "Fork",
+        "meaning": "Çatal"
+    },
+    {
+        "word": "Knife",
+        "meaning": "Bıçak (dikkatli olun)"
+    },
+    {
+        "word": "Fridge",
+        "meaning": "Buzdolabı"
+    },
+    {
+        "word": "Stove",
+        "meaning": "Ocak"
+    },
+    {
+        "word": "Oven",
+        "meaning": "Fırın"
+    },
+    {
+        "word": "Sink",
+        "meaning": "Lavabo"
+    },
+    {
+        "word": "Water",
+        "meaning": "Su"
+    },
+    {
+        "word": "Juice",
+        "meaning": "Meyve suyu"
+    },
+    {
+        "word": "Milk",
+        "meaning": "Süt"
+    },
+    {
+        "word": "Food",
+        "meaning": "Yemek"
+    },
+    {
+        "word": "Apple",
+        "meaning": "Elma"
+    },
+    {
+        "word": "Banana",
+        "meaning": "Muz"
+    },
+    {
+        "word": "Orange",
+        "meaning": "Portakal"
+    },
+    {
+        "word": "Bread",
+        "meaning": "Ekmek"
+    },
+    {
+        "word": "Cheese",
+        "meaning": "Peynir"
+    },
+    {
+        "word": "Egg",
+        "meaning": "Yumurta"
+    },
+    {
+        "word": "Cake",
+        "meaning": "Kek"
+    },
+    {
+        "word": "Candy",
+        "meaning": "Şekerleme"
+    },
+    {
+        "word": "Cookie",
+        "meaning": "Kurabiye"
+    },
+    {
+        "word": "Ball",
+        "meaning": "Top"
+    },
+    {
+        "word": "Doll",
+        "meaning": "Bebek (oyuncak)"
+    },
+    {
+        "word": "Car",
+        "meaning": "Araba"
+    },
+    {
+        "word": "Truck",
+        "meaning": "Kamyon"
+    },
+    {
+        "word": "Train",
+        "meaning": "Tren"
+    },
+    {
+        "word": "Puzzle",
+        "meaning": "Yapboz"
+    },
+    {
+        "word": "Blocks",
+        "meaning": "Bloklar/Küp oyuncaklar"
+    },
+    {
+        "word": "Teddy bear",
+        "meaning": "Oyuncak ayı"
+    },
+    {
+        "word": "Game",
+        "meaning": "Oyun"
+    },
+    {
+        "word": "Kite",
+        "meaning": "Uçurtma"
+    },
+    {
+        "word": "Robot",
+        "meaning": "Robot"
+    },
+    {
+        "word": "Tree",
+        "meaning": "Ağaç"
+    },
+    {
+        "word": "Flower",
+        "meaning": "Çiçek"
+    },
+    {
+        "word": "Sun",
+        "meaning": "Güneş"
+    },
+    {
+        "word": "Moon",
+        "meaning": "Ay"
+    },
+    {
+        "word": "Star",
+        "meaning": "Yıldız"
+    },
+    {
+        "word": "Cloud",
+        "meaning": "Bulut"
+    },
+    {
+        "word": "Rain",
+        "meaning": "Yağmur"
+    },
+    {
+        "word": "Snow",
+        "meaning": "Kar"
+    },
+    {
+        "word": "Grass",
+        "meaning": "Çimen"
+    },
+    {
+        "word": "Ground",
+        "meaning": "Yer/Zemin"
+    },
+    {
+        "word": "Sky",
+        "meaning": "Gökyüzü"
+    },
+    {
+        "word": "Bird",
+        "meaning": "Kuş"
+    },
+    {
+        "word": "Cat",
+        "meaning": "Kedi"
+    },
+    {
+        "word": "Dog",
+        "meaning": "Köpek"
+    },
+    {
+        "word": "Fish",
+        "meaning": "Balık"
+    },
+    {
+        "word": "Bug",
+        "meaning": "Böcek"
+    },
+    {
+        "word": "Leaf",
+        "meaning": "Yaprak"
+    },
+    {
+        "word": "Stone",
+        "meaning": "Taş"
+    },
+    {
+        "word": "Sand",
+        "meaning": "Kum"
+    },
+    {
+        "word": "Shirt",
+        "meaning": "Gömlek"
+    },
+    {
+        "word": "Pants",
+        "meaning": "Pantolon"
+    },
+    {
+        "word": "Dress",
+        "meaning": "Elbise"
+    },
+    {
+        "word": "Skirt",
+        "meaning": "Etek"
+    },
+    {
+        "word": "Shoes",
+        "meaning": "Ayakkabılar"
+    },
+    {
+        "word": "Socks",
+        "meaning": "Çoraplar"
+    },
+    {
+        "word": "Hat",
+        "meaning": "Şapka"
+    },
+    {
+        "word": "Coat",
+        "meaning": "Palto"
+    },
+    {
+        "word": "Jacket",
+        "meaning": "Ceket"
+    },
+    {
+        "word": "Gloves",
+        "meaning": "Eldivenler"
+    },
+    {
+        "word": "Okul (School",
+        "meaning": "temel)-"
+    },
+    {
+        "word": "Bag",
+        "meaning": "Çanta"
+    },
+    {
+        "word": "Pencil",
+        "meaning": "Kurşun kalem"
+    },
+    {
+        "word": "Pen",
+        "meaning": "Tükenmez kalem"
+    },
+    {
+        "word": "Paper",
+        "meaning": "Kağıt"
+    },
+    {
+        "word": "Crayon",
+        "meaning": "Pastel boya"
+    },
+    {
+        "word": "Book",
+        "meaning": "Kitap"
+    },
+    {
+        "word": "Box",
+        "meaning": "Kutu"
+    },
+    {
+        "word": "Key",
+        "meaning": "Anahtar"
+    },
+    {
+        "word": "Money",
+        "meaning": "Para"
+    },
+    {
+        "word": "Present",
+        "meaning": "Hediye"
+    },
+    {
+        "word": "Soap",
+        "meaning": "Sabun"
+    },
+    {
+        "word": "Toothbrush",
+        "meaning": "Diş fırçası"
+    },
+    {
+        "word": "Towel",
+        "meaning": "Havlu"
+    },
+    {
+        "word": "Go",
+        "meaning": "Gitmek"
+    },
+    {
+        "word": "Come",
+        "meaning": "Gelmek"
+    },
+    {
+        "word": "See",
+        "meaning": "Görmek"
+    },
+    {
+        "word": "Hear",
+        "meaning": "Duymak"
+    },
+    {
+        "word": "Eat",
+        "meaning": "Yemek yemek"
+    },
+    {
+        "word": "Drink",
+        "meaning": "İçmek"
+    },
+    {
+        "word": "Sleep",
+        "meaning": "Uyumak"
+    },
+    {
+        "word": "Play",
+        "meaning": "Oynamak"
+    },
+    {
+        "word": "Run",
+        "meaning": "Koşmak"
+    },
+    {
+        "word": "Walk",
+        "meaning": "Yürümek"
+    },
+    {
+        "word": "Sit",
+        "meaning": "Oturmak"
+    },
+    {
+        "word": "Stand",
+        "meaning": "Ayakta durmak"
+    },
+    {
+        "word": "Open",
+        "meaning": "Açmak"
+    },
+    {
+        "word": "Close",
+        "meaning": "Kapatmak"
+    },
+    {
+        "word": "Read",
+        "meaning": "Okumak"
+    },
+    {
+        "word": "Write",
+        "meaning": "Yazmak"
+    },
+    {
+        "word": "Draw",
+        "meaning": "Çizmek"
+    },
+    {
+        "word": "Sing",
+        "meaning": "Şarkı söylemek"
+    },
+    {
+        "word": "Dance",
+        "meaning": "Dans etmek"
+    },
+    {
+        "word": "Jump",
+        "meaning": "Zıplamak"
+    },
+    {
+        "word": "Hop",
+        "meaning": "Sekmek"
+    },
+    {
+        "word": "Laugh",
+        "meaning": "Gülmek"
+    },
+    {
+        "word": "Cry",
+        "meaning": "Ağlamak"
+    },
+    {
+        "word": "Talk",
+        "meaning": "Konuşmak"
+    },
+    {
+        "word": "Listen",
+        "meaning": "Dinlemek"
+    },
+    {
+        "word": "Look",
+        "meaning": "Bakmak"
+    },
+    {
+        "word": "Touch",
+        "meaning": "Dokunmak"
+    },
+    {
+        "word": "Point",
+        "meaning": "İşaret etmek"
+    },
+    {
+        "word": "Give",
+        "meaning": "Vermek"
+    },
+    {
+        "word": "Take",
+        "meaning": "Almak"
+    },
+    {
+        "word": "Put",
+        "meaning": "Koymak"
+    },
+    {
+        "word": "Have",
+        "meaning": "Sahip olmak"
+    },
+    {
+        "word": "Want",
+        "meaning": "İstemek"
+    },
+    {
+        "word": "Like",
+        "meaning": "Hoşlanmak"
+    },
+    {
+        "word": "Love",
+        "meaning": "Sevmek"
+    },
+    {
+        "word": "Help",
+        "meaning": "Yardım etmek"
+    },
+    {
+        "word": "Clean",
+        "meaning": "Temizlemek"
+    },
+    {
+        "word": "Wash",
+        "meaning": "Yıkamak"
+    },
+    {
+        "word": "Cook",
+        "meaning": "Yemek pişirmek"
+    },
+    {
+        "word": "Count",
+        "meaning": "Saymak"
+    },
+    {
+        "word": "Find",
+        "meaning": "Bulmak"
+    },
+    {
+        "word": "Ask",
+        "meaning": "Sormak"
+    },
+    {
+        "word": "Answer",
+        "meaning": "Cevap vermek"
+    },
+    {
+        "word": "Know",
+        "meaning": "Bilmek"
+    },
+    {
+        "word": "Think",
+        "meaning": "Düşünmek"
+    },
+    {
+        "word": "Feel",
+        "meaning": "Hissetmek"
+    },
+    {
+        "word": "Can",
+        "meaning": "Yapabilmek"
+    },
+    {
+        "word": "Say",
+        "meaning": "Söylemek"
+    },
+    {
+        "word": "Make",
+        "meaning": "Yapmak"
+    },
+    {
+        "word": "Get",
+        "meaning": "Almak/Elde etmek"
+    },
+    {
+        "word": "Need",
+        "meaning": "İhtiyaç duymak"
+    },
+    {
+        "word": "Use",
+        "meaning": "Kullanmak"
+    },
+    {
+        "word": "Call",
+        "meaning": "Aramak"
+    },
+    {
+        "word": "Keep",
+        "meaning": "Saklamak/Tutmak"
+    },
+    {
+        "word": "Start",
+        "meaning": "Başlamak"
+    },
+    {
+        "word": "Stop",
+        "meaning": "Durmak"
+    },
+    {
+        "word": "Smile",
+        "meaning": "Gülümsemek"
+    },
+    {
+        "word": "Brush",
+        "meaning": "Fırçalamak"
+    },
+    {
+        "word": "Climb",
+        "meaning": "Tırmanmak"
+    },
+    {
+        "word": "Catch",
+        "meaning": "Yakalamak"
+    },
+    {
+        "word": "Throw",
+        "meaning": "Atmak"
+    },
+    {
+        "word": "Kick",
+        "meaning": "Tekmelemek"
+    },
+    {
+        "word": "Hug",
+        "meaning": "Sarılmak"
+    },
+    {
+        "word": "Carry",
+        "meaning": "Taşımak"
+    },
+    {
+        "word": "Wait",
+        "meaning": "Beklemek"
+    },
+    {
+        "word": "Turn",
+        "meaning": "Dönmek"
+    },
+    {
+        "word": "Learn",
+        "meaning": "Öğrenmek"
+    },
+    {
+        "word": "Teach",
+        "meaning": "Öğretmek"
+    },
+    {
+        "word": "Show",
+        "meaning": "Göstermek"
+    },
+    {
+        "word": "Wake up",
+        "meaning": "Uyanmak"
+    },
+    {
+        "word": "Try",
+        "meaning": "Denemek"
+    },
+    {
+        "word": "Fix",
+        "meaning": "Tamir etmek"
+    },
+    {
+        "word": "Plant",
+        "meaning": "Bitki dikmek"
+    },
+    {
+        "word": "Grow",
+        "meaning": "Büyümek"
+    },
+    {
+        "word": "Meet",
+        "meaning": "Tanışmak"
+    },
+    {
+        "word": "Remember",
+        "meaning": "Hatırlamak"
+    },
+    {
+        "word": "Forget",
+        "meaning": "Unutmak"
+    },
+    {
+        "word": "Choose",
+        "meaning": "Seçmek"
+    },
+    {
+        "word": "Buy",
+        "meaning": "Satın almak"
+    },
+    {
+        "word": "Sell",
+        "meaning": "Satmak"
+    },
+    {
+        "word": "Travel",
+        "meaning": "Seyahat etmek"
+    },
+    {
+        "word": "Visit",
+        "meaning": "Ziyaret etmek"
+    },
+    {
+        "word": "Protect",
+        "meaning": "Korumak"
+    },
+    {
+        "word": "Share",
+        "meaning": "Paylaşmak"
+    },
+    {
+        "word": "Wait",
+        "meaning": "Beklemek"
+    },
+    {
+        "word": "Wave",
+        "meaning": "El sallamak"
+    },
+    {
+        "word": "Wish",
+        "meaning": "Dilemek"
+    },
+    {
+        "word": "Work",
+        "meaning": "Çalışmak"
+    },
+    {
+        "word": "Worry",
+        "meaning": "Endişelenmek"
+    },
+    {
+        "word": "Yell",
+        "meaning": "Bağırmak"
+    },
+    {
+        "word": "Zip",
+        "meaning": "Fermuarı çekmek"
+    },
+    {
+        "word": "Comb",
+        "meaning": "Saçını taramak"
+    },
+    {
+        "word": "Dream",
+        "meaning": "Rüya görmek"
+    },
+    {
+        "word": "Drop",
+        "meaning": "Düşürmek"
+    },
+    {
+        "word": "Fold",
+        "meaning": "Katlamak"
+    },
+    {
+        "word": "Guess",
+        "meaning": "Tahmin etmek"
+    },
+    {
+        "word": "Hide",
+        "meaning": "Saklamak"
+    },
+    {
+        "word": "Hold",
+        "meaning": "Tutmak"
+    },
+    {
+        "word": "Imagine",
+        "meaning": "Hayal etmek"
+    },
+    {
+        "word": "Invite",
+        "meaning": "Davet etmek"
+    },
+    {
+        "word": "Iron",
+        "meaning": "Ütülemek"
+    },
+    {
+        "word": "Jog",
+        "meaning": "Hafif koşu yapmak"
+    },
+    {
+        "word": "Knock",
+        "meaning": "Kapıyı çalmak"
+    },
+    {
+        "word": "Lift",
+        "meaning": "Kaldırmak"
+    },
+    {
+        "word": "Lock",
+        "meaning": "Kilitlemek"
+    },
+    {
+        "word": "March",
+        "meaning": "Marş yürüyüşü yapmak"
+    },
+    {
+        "word": "Measure",
+        "meaning": "Ölçmek"
+    },
+    {
+        "word": "Mix",
+        "meaning": "Karıştırmak"
+    },
+    {
+        "word": "Mop",
+        "meaning": "Paspaslamak"
+    },
+    {
+        "word": "Paint",
+        "meaning": "Boyamak"
+    },
+    {
+        "word": "Park",
+        "meaning": "Park etmek"
+    },
+    {
+        "word": "Pass",
+        "meaning": "Geçmek"
+    },
+    {
+        "word": "Pat",
+        "meaning": "Okşamak"
+    },
+    {
+        "word": "Pick",
+        "meaning": "Seçmek/Toplamak"
+    },
+    {
+        "word": "Pour",
+        "meaning": "Dökmek"
+    },
+    {
+        "word": "Pray",
+        "meaning": "Dua etmek"
+    },
+    {
+        "word": "Pull",
+        "meaning": "Çekmek"
+    },
+    {
+        "word": "Push",
+        "meaning": "İtmek"
+    },
+    {
+        "word": "Reach",
+        "meaning": "Uzanmak"
+    },
+    {
+        "word": "Ride",
+        "meaning": "Binmek (bisiklet vb.)"
+    },
+    {
+        "word": "Roll",
+        "meaning": "Yuvarlamak"
+    },
+    {
+        "word": "Save",
+        "meaning": "Kurtarmak/Biriktirmek"
+    },
+    {
+        "word": "Scrub",
+        "meaning": "Ovmak"
+    },
+    {
+        "word": "Search",
+        "meaning": "Aramak"
+    },
+    {
+        "word": "Sew",
+        "meaning": "Dikiş dikmek"
+    },
+    {
+        "word": "Shake",
+        "meaning": "Sallamak"
+    },
+    {
+        "word": "Shout",
+        "meaning": "Bağırmak"
+    },
+    {
+        "word": "Sip",
+        "meaning": "Yudumlamak"
+    },
+    {
+        "word": "Slide",
+        "meaning": "Kaymak"
+    },
+    {
+        "word": "Smell",
+        "meaning": "Koklamak"
+    },
+    {
+        "word": "Solve",
+        "meaning": "Çözmek"
+    },
+    {
+        "word": "Sort",
+        "meaning": "Sıralamak"
+    },
+    {
+        "word": "Spell",
+        "meaning": "Hecelemek"
+    },
+    {
+        "word": "Stare",
+        "meaning": "Dik dik bakmak"
+    },
+    {
+        "word": "Steal",
+        "meaning": "Çalmak"
+    },
+    {
+        "word": "Step",
+        "meaning": "Adım atmak"
+    },
+    {
+        "word": "Stick",
+        "meaning": "Yapıştırmak"
+    },
+    {
+        "word": "Stir",
+        "meaning": "Karıştırmak"
+    },
+    {
+        "word": "Stretch",
+        "meaning": "Gerinmek"
+    },
+    {
+        "word": "Study",
+        "meaning": "Çalışmak (ders)"
+    },
+    {
+        "word": "Sweep",
+        "meaning": "Süpürmek"
+    },
+    {
+        "word": "Swim",
+        "meaning": "Yüzmek"
+    },
+    {
+        "word": "Taste",
+        "meaning": "Tatmak"
+    },
+    {
+        "word": "Tear",
+        "meaning": "Yırtmak"
+    },
+    {
+        "word": "Tell",
+        "meaning": "Söylemek"
+    },
+    {
+        "word": "Test",
+        "meaning": "Test etmek"
+    },
+    {
+        "word": "Thank",
+        "meaning": "Teşekkür etmek"
+    },
+    {
+        "word": "Tie",
+        "meaning": "Bağlamak"
+    },
+    {
+        "word": "Tip",
+        "meaning": "Bahşiş vermek"
+    },
+    {
+        "word": "Toss",
+        "meaning": "Fırlatmak"
+    },
+    {
+        "word": "Trace",
+        "meaning": "İzini sürmek/Kopyasını çıkarmak"
+    },
+    {
+        "word": "Train",
+        "meaning": "Eğitmek"
+    },
+    {
+        "word": "Treat",
+        "meaning": "Davranmak/İkram etmek"
+    },
+    {
+        "word": "Trick",
+        "meaning": "Kandırmak"
+    },
+    {
+        "word": "Trim",
+        "meaning": "Kırpmak"
+    },
+    {
+        "word": "Trust",
+        "meaning": "Güvenmek"
+    },
+    {
+        "word": "Understand",
+        "meaning": "Anlamak"
+    },
+    {
+        "word": "Unlock",
+        "meaning": "Kilidi açmak"
+    },
+    {
+        "word": "Unpack",
+        "meaning": "Bavuldan çıkarmak"
+    },
+    {
+        "word": "Untie",
+        "meaning": "Çözmek (bağ)"
+    },
+    {
+        "word": "Vacuum",
+        "meaning": "Elektrik süpürgesiyle süpürmek"
+    },
+    {
+        "word": "Value",
+        "meaning": "Değer vermek"
+    },
+    {
+        "word": "Vanish",
+        "meaning": "Kaybolmak"
+    },
+    {
+        "word": "Vary",
+        "meaning": "Değişmek"
+    },
+    {
+        "word": "Volunteer",
+        "meaning": "Gönüllü olmak"
+    },
+    {
+        "word": "Vote",
+        "meaning": "Oy vermek"
+    },
+    {
+        "word": "Wander",
+        "meaning": "Gezinmek"
+    },
+    {
+        "word": "Warn",
+        "meaning": "Uyarmak"
+    },
+    {
+        "word": "Waste",
+        "meaning": "İsraf etmek"
+    },
+    {
+        "word": "Watch",
+        "meaning": "İzlemek"
+    },
+    {
+        "word": "Water",
+        "meaning": "Sulamak"
+    },
+    {
+        "word": "Weigh",
+        "meaning": "Tartmak"
+    },
+    {
+        "word": "Wipe",
+        "meaning": "Silmek"
+    },
+    {
+        "word": "Wrap",
+        "meaning": "Sarmak"
+    },
+    {
+        "word": "Yawn",
+        "meaning": "Esnemek"
+    },
+    {
+        "word": "Yearn",
+        "meaning": "Özlemek"
+    },
+    {
+        "word": "Zap",
+        "meaning": "Hızla yok etmek"
+    },
+    {
+        "word": "Zoom",
+        "meaning": "Yakınlaştırmak"
+    },
+    {
+        "word": "Run",
+        "meaning": "Koşmak"
+    },
+    {
+        "word": "Walk",
+        "meaning": "Yürümek"
+    },
+    {
+        "word": "Jump",
+        "meaning": "Zıplamak"
+    },
+    {
+        "word": "Hop",
+        "meaning": "Sekmek"
+    },
+    {
+        "word": "Skip",
+        "meaning": "İp atlamak/Sıçramak"
+    },
+    {
+        "word": "Crawl",
+        "meaning": "Emeklemek"
+    },
+    {
+        "word": "Climb",
+        "meaning": "Tırmanmak"
+    },
+    {
+        "word": "Dance",
+        "meaning": "Dans etmek"
+    },
+    {
+        "word": "Swim",
+        "meaning": "Yüzmek"
+    },
+    {
+        "word": "Fly",
+        "meaning": "Uçmak"
+    },
+    {
+        "word": "Kick",
+        "meaning": "Tekmelemek"
+    },
+    {
+        "word": "Throw",
+        "meaning": "Atmak"
+    },
+    {
+        "word": "Catch",
+        "meaning": "Yakalamak"
+    },
+    {
+        "word": "Push",
+        "meaning": "İtmek"
+    },
+    {
+        "word": "Pull",
+        "meaning": "Çekmek"
+    },
+    {
+        "word": "Lift",
+        "meaning": "Kaldırmak"
+    },
+    {
+        "word": "Carry",
+        "meaning": "Taşımak"
+    },
+    {
+        "word": "Hold",
+        "meaning": "Tutmak"
+    },
+    {
+        "word": "Drop",
+        "meaning": "Düşürmek"
+    },
+    {
+        "word": "Pick up",
+        "meaning": "Yerden almak"
+    },
+    {
+        "word": "Put down",
+        "meaning": "Yere bırakmak"
+    },
+    {
+        "word": "Bend",
+        "meaning": "Eğilmek"
+    },
+    {
+        "word": "Stretch",
+        "meaning": "Gerinmek"
+    },
+    {
+        "word": "Shake",
+        "meaning": "Sallamak"
+    },
+    {
+        "word": "Nod",
+        "meaning": "Başını sallamak (onay)"
+    },
+    {
+        "word": "Point",
+        "meaning": "İşaret etmek"
+    },
+    {
+        "word": "Wave",
+        "meaning": "El sallamak"
+    },
+    {
+        "word": "Clap",
+        "meaning": "El çırpmak"
+    },
+    {
+        "word": "Touch",
+        "meaning": "Dokunmak"
+    },
+    {
+        "word": "Turn",
+        "meaning": "Dönmek"
+    },
+    {
+        "word": "Roll",
+        "meaning": "Yuvarlamak"
+    },
+    {
+        "word": "Spin",
+        "meaning": "Dönmek (kendi etrafında)"
+    },
+    {
+        "word": "Sit",
+        "meaning": "Oturmak"
+    },
+    {
+        "word": "Stand",
+        "meaning": "Ayakta durmak"
+    },
+    {
+        "word": "Lie down",
+        "meaning": "Uzanmak"
+    },
+    {
+        "word": "Get up",
+        "meaning": "Kalkmak"
+    },
+    {
+        "word": "Move",
+        "meaning": "Hareket etmek"
+    },
+    {
+        "word": "Reach",
+        "meaning": "Uzanmak"
+    },
+    {
+        "word": "Grab",
+        "meaning": "Kapmak"
+    },
+    {
+        "word": "Open",
+        "meaning": "Açmak"
+    },
+    {
+        "word": "Close",
+        "meaning": "Kapatmak"
+    },
+    {
+        "word": "Push",
+        "meaning": "İtmek"
+    },
+    {
+        "word": "Pull",
+        "meaning": "Çekmek"
+    },
+    {
+        "word": "Write",
+        "meaning": "Yazmak"
+    },
+    {
+        "word": "Draw",
+        "meaning": "Çizmek"
+    },
+    {
+        "word": "Paint",
+        "meaning": "Boyamak"
+    },
+    {
+        "word": "Cut",
+        "meaning": "Kesmek"
+    },
+    {
+        "word": "Paste",
+        "meaning": "Yapıştırmak"
+    },
+    {
+        "word": "Build",
+        "meaning": "İnşa etmek"
+    },
+    {
+        "word": "Dig",
+        "meaning": "Kazmak"
+    },
+    {
+        "word": "Plant",
+        "meaning": "Dikmek (bitki)"
+    },
+    {
+        "word": "Water",
+        "meaning": "Sulamak"
+    },
+    {
+        "word": "Eat",
+        "meaning": "Yemek yemek"
+    },
+    {
+        "word": "Drink",
+        "meaning": "İçmek"
+    },
+    {
+        "word": "Sleep",
+        "meaning": "Uyumak"
+    },
+    {
+        "word": "Wake up",
+        "meaning": "Uyanmak"
+    },
+    {
+        "word": "Wash",
+        "meaning": "Yıkamak"
+    },
+    {
+        "word": "Brush",
+        "meaning": "Fırçalamak"
+    },
+    {
+        "word": "Comb",
+        "meaning": "Saçını taramak"
+    },
+    {
+        "word": "Dress",
+        "meaning": "Giyinmek"
+    },
+    {
+        "word": "Undress",
+        "meaning": "Soyunmak"
+    },
+    {
+        "word": "Smile",
+        "meaning": "Gülümsemek"
+    },
+    {
+        "word": "Frown",
+        "meaning": "Kaşlarını çatmak"
+    },
+    {
+        "word": "Laugh",
+        "meaning": "Gülmek"
+    },
+    {
+        "word": "Cry",
+        "meaning": "Ağlamak"
+    },
+    {
+        "word": "Talk",
+        "meaning": "Konuşmak"
+    },
+    {
+        "word": "Listen",
+        "meaning": "Dinlemek"
+    },
+    {
+        "word": "Look",
+        "meaning": "Bakmak"
+    },
+    {
+        "word": "See",
+        "meaning": "Görmek"
+    },
+    {
+        "word": "Hear",
+        "meaning": "Duymak"
+    },
+    {
+        "word": "Smell",
+        "meaning": "Koklamak"
+    },
+    {
+        "word": "Taste",
+        "meaning": "Tatmak"
+    },
+    {
+        "word": "Feel",
+        "meaning": "Hissetmek"
+    },
+    {
+        "word": "Think",
+        "meaning": "Düşünmek"
+    },
+    {
+        "word": "Know",
+        "meaning": "Bilmek"
+    },
+    {
+        "word": "Learn",
+        "meaning": "Öğrenmek"
+    },
+    {
+        "word": "Teach",
+        "meaning": "Öğretmek"
+    },
+    {
+        "word": "Show",
+        "meaning": "Göstermek"
+    },
+    {
+        "word": "Help",
+        "meaning": "Yardım etmek"
+    },
+    {
+        "word": "Share",
+        "meaning": "Paylaşmak"
+    },
+    {
+        "word": "Give",
+        "meaning": "Vermek"
+    },
+    {
+        "word": "Take",
+        "meaning": "Almak"
+    },
+    {
+        "word": "Ask",
+        "meaning": "Sormak"
+    },
+    {
+        "word": "Answer",
+        "meaning": "Cevap vermek"
+    },
+    {
+        "word": "Say",
+        "meaning": "Söylemek"
+    },
+    {
+        "word": "Make",
+        "meaning": "Yapmak"
+    },
+    {
+        "word": "Play",
+        "meaning": "Oynamak"
+    },
+    {
+        "word": "Read",
+        "meaning": "Okumak"
+    },
+    {
+        "word": "Sing",
+        "meaning": "Şarkı söylemek"
+    },
+    {
+        "word": "Count",
+        "meaning": "Saymak"
+    },
+    {
+        "word": "Find",
+        "meaning": "Bulmak"
+    },
+    {
+        "word": "Hide",
+        "meaning": "Saklamak"
+    },
+    {
+        "word": "Seek",
+        "meaning": "Aramak"
+    },
+    {
+        "word": "Guess",
+        "meaning": "Tahmin etmek"
+    },
+    {
+        "word": "Try",
+        "meaning": "Denemek"
+    },
+    {
+        "word": "Work",
+        "meaning": "Çalışmak"
+    },
+    {
+        "word": "Clean",
+        "meaning": "Temizlemek"
+    },
+    {
+        "word": "Cook",
+        "meaning": "Yemek pişirmek"
+    },
+    {
+        "word": "Hello",
+        "meaning": "Merhaba"
+    },
+    {
+        "word": "Hi",
+        "meaning": "Merhaba"
+    },
+    {
+        "word": "Bye",
+        "meaning": "Güle güle"
+    },
+    {
+        "word": "Goodbye",
+        "meaning": "Güle güle"
+    },
+    {
+        "word": "Good morning",
+        "meaning": "Günaydın"
+    },
+    {
+        "word": "Good afternoon",
+        "meaning": "Tünaydın"
+    },
+    {
+        "word": "Good evening",
+        "meaning": "İyi akşamlar"
+    },
+    {
+        "word": "Good night",
+        "meaning": "İyi geceler"
+    },
+    {
+        "word": "Please",
+        "meaning": "Lütfen"
+    },
+    {
+        "word": "Thank you",
+        "meaning": "Teşekkür ederim"
+    },
+    {
+        "word": "You're welcome",
+        "meaning": "Rica ederim"
+    },
+    {
+        "word": "Excuse me",
+        "meaning": "Afedersiniz"
+    },
+    {
+        "word": "Sorry",
+        "meaning": "Üzgünüm/Afedersiniz"
+    },
+    {
+        "word": "Yes",
+        "meaning": "Evet"
+    },
+    {
+        "word": "No",
+        "meaning": "Hayır"
+    },
+    {
+        "word": "Maybe",
+        "meaning": "Belki"
+    },
+    {
+        "word": "I don't know",
+        "meaning": "Bilmiyorum"
+    },
+    {
+        "word": "I understand",
+        "meaning": "Anlıyorum"
+    },
+    {
+        "word": "I don't understand",
+        "meaning": "Anlamıyorum"
+    },
+    {
+        "word": "Can you help me?",
+        "meaning": "Bana yardım edebilir misin?"
+    },
+    {
+        "word": "What is this?",
+        "meaning": "Bu ne?"
+    },
+    {
+        "word": "What is that?",
+        "meaning": "Şu ne?"
+    },
+    {
+        "word": "Who is this?",
+        "meaning": "Bu kim?"
+    },
+    {
+        "word": "Who is that?",
+        "meaning": "Şu kim?"
+    },
+    {
+        "word": "Where is...?",
+        "meaning": "... nerede?"
+    },
+    {
+        "word": "How are you?",
+        "meaning": "Nasılsın?"
+    },
+    {
+        "word": "I am fine, thank you.",
+        "meaning": "İyiyim, teşekkür ederim."
+    },
+    {
+        "word": "What's your name?",
+        "meaning": "Adın ne?"
+    },
+    {
+        "word": "My name is...",
+        "meaning": "Benim adım..."
+    },
+    {
+        "word": "Nice to meet you",
+        "meaning": "Tanıştığıma memnun oldum"
+    },
+    {
+        "word": "See you later",
+        "meaning": "Sonra görüşürüz"
+    },
+    {
+        "word": "Have a good day",
+        "meaning": "İyi günler"
+    },
+    {
+        "word": "Have fun",
+        "meaning": "İyi eğlenceler"
+    },
+    {
+        "word": "Be careful",
+        "meaning": "Dikkatli ol"
+    },
+    {
+        "word": "I like it",
+        "meaning": "Bunu beğendim"
+    },
+    {
+        "word": "I don't like it",
+        "meaning": "Bunu beğenmedim"
+    },
+    {
+        "word": "I want this",
+        "meaning": "Bunu istiyorum"
+    },
+    {
+        "word": "I don't want that",
+        "meaning": "Onu istemiyorum"
+    },
+    {
+        "word": "Let's go",
+        "meaning": "Hadi gidelim"
+    },
+    {
+        "word": "Come here",
+        "meaning": "Buraya gel"
+    },
+    {
+        "word": "Look at this",
+        "meaning": "Buna bak"
+    },
+    {
+        "word": "Listen to me",
+        "meaning": "Beni dinle"
+    },
+    {
+        "word": "Wait a minute",
+        "meaning": "Bir dakika bekle"
+    },
+    {
+        "word": "Hurry up",
+        "meaning": "Çabuk ol"
+    },
+    {
+        "word": "Slow down",
+        "meaning": "Yavaşla"
+    },
+    {
+        "word": "Be quiet",
+        "meaning": "Sessiz ol"
+    },
+    {
+        "word": "That's right",
+        "meaning": "Bu doğru"
+    },
+    {
+        "word": "That's wrong",
+        "meaning": "Bu yanlış"
+    },
+    {
+        "word": "Very good",
+        "meaning": "Çok iyi"
+    },
+    {
+        "word": "Well done",
+        "meaning": "Aferin"
+    },
+    {
+        "word": "Try again",
+        "meaning": "Tekrar dene"
+    },
+    {
+        "word": "I am happy",
+        "meaning": "Mutluyum"
+    },
+    {
+        "word": "I am sad",
+        "meaning": "Üzgünüm"
+    },
+    {
+        "word": "I am tired",
+        "meaning": "Yorgunum"
+    },
+    {
+        "word": "I am hungry",
+        "meaning": "Açım"
+    },
+    {
+        "word": "I am thirsty",
+        "meaning": "Susadım"
+    },
+    {
+        "word": "I am cold",
+        "meaning": "Üşüyorum"
+    },
+    {
+        "word": "I am hot",
+        "meaning": "Sıcaktı"
+    },
+    {
+        "word": "I am sleepy",
+        "meaning": "Uykum var"
+    },
+    {
+        "word": "I am sick",
+        "meaning": "Hastayım"
+    },
+    {
+        "word": "I love you",
+        "meaning": "Seni seviyorum"
+    },
+    {
+        "word": "I miss you",
+        "meaning": "Seni özledim"
+    },
+    {
+        "word": "What are you doing?",
+        "meaning": "Ne yapıyorsun?"
+    },
+    {
+        "word": "I am playing",
+        "meaning": "Oynuyorum"
+    },
+    {
+        "word": "I am eating",
+        "meaning": "Yemek yiyorum"
+    },
+    {
+        "word": "I am drinking",
+        "meaning": "İçiyorum"
+    },
+    {
+        "word": "I am sleeping",
+        "meaning": "Uyuyorum"
+    },
+    {
+        "word": "Can I have...?",
+        "meaning": "... alabilir miyim?"
+    },
+    {
+        "word": "May I go...?",
+        "meaning": "... gidebilir miyim?"
+    },
+    {
+        "word": "It's time for...",
+        "meaning": "... zamanı"
+    },
+    {
+        "word": "Let's...",
+        "meaning": "Hadi..."
+    },
+    {
+        "word": "Do you like...?",
+        "meaning": "... sever misin?"
+    },
+    {
+        "word": "What color is it?",
+        "meaning": "Bu ne renk?"
+    },
+    {
+        "word": "How many...?",
+        "meaning": "Kaç tane...?"
+    },
+    {
+        "word": "It's big",
+        "meaning": "Bu büyük"
+    },
+    {
+        "word": "It's small",
+        "meaning": "Bu küçük"
+    },
+    {
+        "word": "It's hot",
+        "meaning": "Bu sıcak"
+    },
+    {
+        "word": "It's cold",
+        "meaning": "Bu soğuk"
+    },
+    {
+        "word": "It's yummy",
+        "meaning": "Bu lezzetli"
+    },
+    {
+        "word": "It's dirty",
+        "meaning": "Bu kirli"
+    },
+    {
+        "word": "It's clean",
+        "meaning": "Bu temiz"
+    },
+    {
+        "word": "It's noisy",
+        "meaning": "Bu gürültülü"
+    },
+    {
+        "word": "It's quiet",
+        "meaning": "Bu sessiz"
+    },
+    {
+        "word": "I can do it",
+        "meaning": "Bunu yapabilirim"
+    },
+    {
+        "word": "I can't do it",
+        "meaning": "Bunu yapamam"
+    },
+    {
+        "word": "Help me, please",
+        "meaning": "Lütfen yardım et"
+    },
+    {
+        "word": "Thank you for your help",
+        "meaning": "Yardımın için teşekkür ederim"
+    },
+    {
+        "word": "I need help",
+        "meaning": "Yardıma ihtiyacım var"
+    },
+    {
+        "word": "It's okay",
+        "meaning": "Sorun değil/Tamam"
+    },
+    {
+        "word": "No problem",
+        "meaning": "Sorun değil"
+    },
+    {
+        "word": "That's all",
+        "meaning": "Hepsi bu"
+    },
+    {
+        "word": "One more time",
+        "meaning": "Bir kez daha"
+    },
+    {
+        "word": "Again, please",
+        "meaning": "Tekrar lütfen"
+    },
+    {
+        "word": "Good job!",
+        "meaning": "İyi iş çıkardın!"
+    },
+    {
+        "word": "Open the box",
+        "meaning": "Kutuyu aç"
+    },
+    {
+        "word": "Close the box",
+        "meaning": "Kutuyu kapat"
+    },
+    {
+        "word": "Open the window",
+        "meaning": "Pencereyi aç"
+    },
+    {
+        "word": "Close the window",
+        "meaning": "Pencereyi kapat"
+    },
+    {
+        "word": "Open the door",
+        "meaning": "Kapıyı aç"
+    },
+    {
+        "word": "Close the door",
+        "meaning": "Kapıyı kapat"
+    },
+    {
+        "word": "Cover it",
+        "meaning": "Üzerini ört"
+    },
+    {
+        "word": "Pull the drawer",
+        "meaning": "Çekmeceyi çek"
+    },
+    {
+        "word": "Push the drawer",
+        "meaning": "Çekmeceyi it"
+    },
+    {
+        "word": "Put it under",
+        "meaning": "Altına koy"
+    },
+    {
+        "word": "Put it on",
+        "meaning": "Üzerine koy"
+    },
+    {
+        "word": "Put it in",
+        "meaning": "İçine koy"
+    },
+    {
+        "word": "Take it out",
+        "meaning": "Dışına çıkar"
+    },
+    {
+        "word": "Turn on the light",
+        "meaning": "Işığı aç"
+    },
+    {
+        "word": "Turn off the light",
+        "meaning": "Işığı kapat"
+    },
+    {
+        "word": "Look up",
+        "meaning": "Yukarı bak"
+    },
+    {
+        "word": "Look down",
+        "meaning": "Aşağı bak"
+    },
+    {
+        "word": "Sit down",
+        "meaning": "Otur"
+    },
+    {
+        "word": "Stand up",
+        "meaning": "Kalk"
+    },
+    {
+        "word": "Pick it up",
+        "meaning": "Onu yerden al"
+    },
+    {
+        "word": "Put it away",
+        "meaning": "Onu yerine koy"
+    },
+    {
+        "word": "Clean up",
+        "meaning": "Toparlan/Temizle"
+    },
+    {
+        "word": "Wash your hands",
+        "meaning": "Ellerini yıka"
+    },
+    {
+        "word": "Dry your hands",
+        "meaning": "Ellerini kurula"
+    },
+    {
+        "word": "Put on your shoes",
+        "meaning": "Ayakkabılarını giy"
+    },
+    {
+        "word": "Take off your shoes",
+        "meaning": "Ayakkabılarını çıkar"
+    },
+    {
+        "word": "Put on your coat",
+        "meaning": "Montunu giy"
+    },
+    {
+        "word": "Take off your coat",
+        "meaning": "Montunu çıkar"
+    },
+    {
+        "word": "Read the book",
+        "meaning": "Kitabı oku"
+    },
+    {
+        "word": "Write your name",
+        "meaning": "Adını yaz"
+    },
+    {
+        "word": "Draw a picture",
+        "meaning": "Resim çiz"
+    },
+    {
+        "word": "Color it",
+        "meaning": "Onu boya"
+    },
+    {
+        "word": "Cut the paper",
+        "meaning": "Kağıdı kes"
+    },
+    {
+        "word": "Fold the paper",
+        "meaning": "Kağıdı katla"
+    },
+    {
+        "word": "Listen carefully",
+        "meaning": "Dikkatlice dinle"
+    },
+    {
+        "word": "Speak softly",
+        "meaning": "Yavaşça konuş"
+    },
+    {
+        "word": "Speak loudly",
+        "meaning": "Yüksek sesle konuş"
+    },
+    {
+        "word": "Share your toys",
+        "meaning": "Oyuncaklarını paylaş"
+    },
+    {
+        "word": "Help me",
+        "meaning": "Bana yardım et"
+    },
+    {
+        "word": "Let's play",
+        "meaning": "Hadi oynayalım"
+    },
+    {
+        "word": "Let's eat",
+        "meaning": "Hadi yemek yiyelim"
+    },
+    {
+        "word": "Let's drink",
+        "meaning": "Hadi içelim"
+    },
+    {
+        "word": "Let's sleep",
+        "meaning": "Hadi uyuyalım"
+    },
+    {
+        "word": "Let's go outside",
+        "meaning": "Hadi dışarı çıkalım"
+    },
+    {
+        "word": "Come inside",
+        "meaning": "İçeri gel"
+    },
+    {
+        "word": "Hurry up",
+        "meaning": "Çabuk ol"
+    },
+    {
+        "word": "Slow down",
+        "meaning": "Yavaşla"
+    },
+    {
+        "word": "Be careful",
+        "meaning": "Dikkatli ol"
+    },
+    {
+        "word": "Wait for me",
+        "meaning": "Beni bekle"
+    },
+    {
+        "word": "Follow me",
+        "meaning": "Beni takip et"
+    },
+    {
+        "word": "Stop now",
+        "meaning": "Şimdi dur"
+    },
+    {
+        "word": "Start now",
+        "meaning": "Şimdi başla"
+    },
+    {
+        "word": "Try again",
+        "meaning": "Tekrar dene"
+    },
+    {
+        "word": "Look at me",
+        "meaning": "Bana bak"
+    },
+    {
+        "word": "Listen to me",
+        "meaning": "Beni dinle"
+    },
+    {
+        "word": "Show me",
+        "meaning": "Bana göster"
+    },
+    {
+        "word": "Tell me",
+        "meaning": "Bana söyle"
+    },
+    {
+        "word": "Ask me",
+        "meaning": "Bana sor"
+    },
+    {
+        "word": "Answer me",
+        "meaning": "Bana cevap ver"
+    },
+    {
+        "word": "Point to it",
+        "meaning": "Onu işaret et"
+    },
+    {
+        "word": "Touch it",
+        "meaning": "Ona dokun"
+    },
+    {
+        "word": "Smell it",
+        "meaning": "Onu kokla"
+    },
+    {
+        "word": "Taste it",
+        "meaning": "Onu tat"
+    },
+    {
+        "word": "Hold my hand",
+        "meaning": "Elimi tut"
+    },
+    {
+        "word": "Let go",
+        "meaning": "Bırak"
+    },
+    {
+        "word": "Give it to me",
+        "meaning": "Onu bana ver"
+    },
+    {
+        "word": "Take it from me",
+        "meaning": "Onu benden al"
+    },
+    {
+        "word": "Put it back",
+        "meaning": "Onu geri koy"
+    },
+    {
+        "word": "Find it",
+        "meaning": "Onu bul"
+    },
+    {
+        "word": "Lose it",
+        "meaning": "Onu kaybet"
+    },
+    {
+        "word": "Remember this",
+        "meaning": "Bunu hatırla"
+    },
+    {
+        "word": "Forget it",
+        "meaning": "Onu unut"
+    },
+    {
+        "word": "Choose one",
+        "meaning": "Birini seç"
+    },
+    {
+        "word": "Count them",
+        "meaning": "Onları say"
+    },
+    {
+        "word": "Line up",
+        "meaning": "Sıraya girin"
+    },
+    {
+        "word": "Circle it",
+        "meaning": "Onu daire içine al"
+    },
+    {
+        "word": "Cross it out",
+        "meaning": "Üzerini çizin"
+    },
+    {
+        "word": "Match them",
+        "meaning": "Onları eşleştirin"
+    },
+    {
+        "word": "Glue it",
+        "meaning": "Onu yapıştır"
+    },
+    {
+        "word": "Tape it",
+        "meaning": "Onu bantla"
+    },
+    {
+        "word": "Stack them",
+        "meaning": "Onları üst üste koy"
+    },
+    {
+        "word": "Knock on the door",
+        "meaning": "Kapıyı çal"
+    },
+    {
+        "word": "Ring the bell",
+        "meaning": "Zili çal"
+    },
+    {
+        "word": "Catch the ball",
+        "meaning": "Topu yakala"
+    },
+    {
+        "word": "Throw the ball",
+        "meaning": "Topu at"
+    },
+    {
+        "word": "Kick the ball",
+        "meaning": "Topu tekmele"
+    },
+    {
+        "word": "Bounce the ball",
+        "meaning": "Topu sektir"
+    },
+    {
+        "word": "Wash the toy",
+        "meaning": "Oyuncağı yıka"
+    },
+    {
+        "word": "Dry the toy",
+        "meaning": "Oyuncağı kurula"
+    },
+    {
+        "word": "Up",
+        "meaning": "Yukarı"
+    },
+    {
+        "word": "Down",
+        "meaning": "Aşağı"
+    },
+    {
+        "word": "Left",
+        "meaning": "Sol"
+    },
+    {
+        "word": "Right",
+        "meaning": "Sağ"
+    },
+    {
+        "word": "Top",
+        "meaning": "Üst"
+    },
+    {
+        "word": "Bottom",
+        "meaning": "Alt"
+    },
+    {
+        "word": "Side",
+        "meaning": "Yan"
+    },
+    {
+        "word": "Next to",
+        "meaning": "Yanında"
+    },
+    {
+        "word": "In front of",
+        "meaning": "Önünde"
+    },
+    {
+        "word": "Behind",
+        "meaning": "Arkasında"
+    },
+    {
+        "word": "Under",
+        "meaning": "Altında"
+    },
+    {
+        "word": "Over",
+        "meaning": "Üzerinde"
+    },
+    {
+        "word": "Inside",
+        "meaning": "İçinde"
+    },
+    {
+        "word": "Outside",
+        "meaning": "Dışında"
+    },
+    {
+        "word": "Between",
+        "meaning": "Arasında"
+    },
+    {
+        "word": "Happy",
+        "meaning": "Mutlu"
+    },
+    {
+        "word": "Sad",
+        "meaning": "Üzgün"
+    },
+    {
+        "word": "Angry",
+        "meaning": "Kızgın"
+    },
+    {
+        "word": "Scared",
+        "meaning": "Korkmuş"
+    },
+    {
+        "word": "Excited",
+        "meaning": "Heyecanlı"
+    },
+    {
+        "word": "Surprised",
+        "meaning": "Şaşırmış"
+    },
+    {
+        "word": "Tired",
+        "meaning": "Yorgun"
+    },
+    {
+        "word": "Bored",
+        "meaning": "Sıkılmış"
+    },
+    {
+        "word": "Sıfatlar (Adjectives",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "Big",
+        "meaning": "Büyük"
+    },
+    {
+        "word": "Small",
+        "meaning": "Küçük"
+    },
+    {
+        "word": "Hot",
+        "meaning": "Sıcak"
+    },
+    {
+        "word": "Cold",
+        "meaning": "Soğuk"
+    },
+    {
+        "word": "Good",
+        "meaning": "İyi"
+    },
+    {
+        "word": "Bad",
+        "meaning": "Kötü"
+    },
+    {
+        "word": "Fast",
+        "meaning": "Hızlı"
+    },
+    {
+        "word": "Slow",
+        "meaning": "Yavaş"
+    },
+    {
+        "word": "Loud",
+        "meaning": "Gürültülü"
+    },
+    {
+        "word": "Quiet",
+        "meaning": "Sessiz"
+    },
+    {
+        "word": "Clean",
+        "meaning": "Temiz"
+    },
+    {
+        "word": "Dirty",
+        "meaning": "Kirli"
+    },
+    {
+        "word": "Wet",
+        "meaning": "Islak"
+    },
+    {
+        "word": "Dry",
+        "meaning": "Kuru"
+    },
+    {
+        "word": "Full",
+        "meaning": "Tok/Dolu"
+    },
+    {
+        "word": "Empty",
+        "meaning": "Boş"
+    },
+    {
+        "word": "New",
+        "meaning": "Yeni"
+    },
+    {
+        "word": "Old",
+        "meaning": "Eski"
+    },
+    {
+        "word": "Easy",
+        "meaning": "Kolay"
+    },
+    {
+        "word": "Hard",
+        "meaning": "Zor"
+    },
+    {
+        "word": "Zaman (Time",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "Day",
+        "meaning": "Gün"
+    },
+    {
+        "word": "Night",
+        "meaning": "Gece"
+    },
+    {
+        "word": "Morning",
+        "meaning": "Sabah"
+    },
+    {
+        "word": "Afternoon",
+        "meaning": "Öğleden sonra"
+    },
+    {
+        "word": "Evening",
+        "meaning": "Akşam"
+    },
+    {
+        "word": "Today",
+        "meaning": "Bugün"
+    },
+    {
+        "word": "Tomorrow",
+        "meaning": "Yarın"
+    },
+    {
+        "word": "Yesterday",
+        "meaning": "Dün"
+    },
+    {
+        "word": "Now",
+        "meaning": "Şimdi"
+    },
+    {
+        "word": "Later",
+        "meaning": "Sonra"
+    },
+    {
+        "word": "Soru Kelimeleri (Question Words",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "What",
+        "meaning": "Ne"
+    },
+    {
+        "word": "Who",
+        "meaning": "Kim"
+    },
+    {
+        "word": "Where",
+        "meaning": "Nerede"
+    },
+    {
+        "word": "When",
+        "meaning": "Ne zaman"
+    },
+    {
+        "word": "Why",
+        "meaning": "Neden"
+    },
+    {
+        "word": "How",
+        "meaning": "Nasıl"
+    },
+    {
+        "word": "İyelik Zamirleri (Possessive Pronouns",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "My",
+        "meaning": "Benim"
+    },
+    {
+        "word": "Your",
+        "meaning": "Senin"
+    },
+    {
+        "word": "His",
+        "meaning": "Onun (erkek)"
+    },
+    {
+        "word": "Her",
+        "meaning": "Onun (kadın)"
+    },
+    {
+        "word": "Its",
+        "meaning": "Onun (cansız/hayvan)"
+    },
+    {
+        "word": "Yardımcı Fiiller (Auxiliary Verbs",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "Is",
+        "meaning": "-dir/-dır (tekil için)"
+    },
+    {
+        "word": "Are",
+        "meaning": "-dirler/-dırlar (çoğul için)"
+    },
+    {
+        "word": "Am",
+        "meaning": "-im/-ım (ben için)"
+    },
+    {
+        "word": "Temel Eşyalar (Basic Objects",
+        "meaning": "Daha Fazla Kelime)-"
+    },
+    {
+        "word": "Ev (Home",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Roof",
+        "meaning": "Çatı"
+    },
+    {
+        "word": "Wall",
+        "meaning": "Duvar"
+    },
+    {
+        "word": "Floor",
+        "meaning": "Zemin/Taban"
+    },
+    {
+        "word": "Ceiling",
+        "meaning": "Tavan"
+    },
+    {
+        "word": "Stairs",
+        "meaning": "Merdivenler"
+    },
+    {
+        "word": "Balcony",
+        "meaning": "Balkon"
+    },
+    {
+        "word": "Garden",
+        "meaning": "Bahçe"
+    },
+    {
+        "word": "Garage",
+        "meaning": "Garaj"
+    },
+    {
+        "word": "Chimney",
+        "meaning": "Baca"
+    },
+    {
+        "word": "Curtain",
+        "meaning": "Perde"
+    },
+    {
+        "word": "Rug",
+        "meaning": "Halı/Kilim"
+    },
+    {
+        "word": "Sofa",
+        "meaning": "Kanepe"
+    },
+    {
+        "word": "Armchair",
+        "meaning": "Koltuk"
+    },
+    {
+        "word": "Mirror",
+        "meaning": "Ayna"
+    },
+    {
+        "word": "Radio",
+        "meaning": "Radyo"
+    },
+    {
+        "word": "DVD player",
+        "meaning": "DVD oynatıcı"
+    },
+    {
+        "word": "Vacuum cleaner",
+        "meaning": "Elektrik süpürgesi"
+    },
+    {
+        "word": "Washing machine",
+        "meaning": "Çamaşır makinesi"
+    },
+    {
+        "word": "Dryer",
+        "meaning": "Kurutma makinesi"
+    },
+    {
+        "word": "Iron (eşya)",
+        "meaning": "Ütü"
+    },
+    {
+        "word": "Ironing board",
+        "meaning": "Ütü masası"
+    },
+    {
+        "word": "Mutfak (Kitchen",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Pan",
+        "meaning": "Tava"
+    },
+    {
+        "word": "Pot",
+        "meaning": "Tencere"
+    },
+    {
+        "word": "Lid",
+        "meaning": "Tencere kapağı"
+    },
+    {
+        "word": "Kettle",
+        "meaning": "Su ısıtıcısı"
+    },
+    {
+        "word": "Toaster",
+        "meaning": "Tost makinesi"
+    },
+    {
+        "word": "Blender",
+        "meaning": "Blender"
+    },
+    {
+        "word": "Mixer",
+        "meaning": "Mikser"
+    },
+    {
+        "word": "Napkin",
+        "meaning": "Peçete"
+    },
+    {
+        "word": "Tray",
+        "meaning": "Tepsi"
+    },
+    {
+        "word": "Bottle",
+        "meaning": "Şişe"
+    },
+    {
+        "word": "Can",
+        "meaning": "Konserve kutusu"
+    },
+    {
+        "word": "Jar",
+        "meaning": "Kavanoz"
+    },
+    {
+        "word": "Salt",
+        "meaning": "Tuz"
+    },
+    {
+        "word": "Pepper",
+        "meaning": "Biber"
+    },
+    {
+        "word": "Sugar",
+        "meaning": "Şeker"
+    },
+    {
+        "word": "Butter",
+        "meaning": "Tereyağı"
+    },
+    {
+        "word": "Oil",
+        "meaning": "Yağ"
+    },
+    {
+        "word": "Jam",
+        "meaning": "Reçel"
+    },
+    {
+        "word": "Honey",
+        "meaning": "Bal"
+    },
+    {
+        "word": "Cereal",
+        "meaning": "Kahvaltılık gevrek"
+    },
+    {
+        "word": "Yogurt",
+        "meaning": "Yoğurt (tekrar vurgu)"
+    },
+    {
+        "word": "Oyuncaklar (Toys",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Puzzle (daha fazla çeşit)",
+        "meaning": "Yapboz"
+    },
+    {
+        "word": "Building blocks (daha fazla çeşit)",
+        "meaning": "Yapı taşları"
+    },
+    {
+        "word": "Crayons (daha fazla çeşit)",
+        "meaning": "Boya kalemleri"
+    },
+    {
+        "word": "Markers",
+        "meaning": "Keçeli kalemler"
+    },
+    {
+        "word": "Scissors (çocuklar için)",
+        "meaning": "Makas (çocuk)"
+    },
+    {
+        "word": "Glue",
+        "meaning": "Yapıştırıcı"
+    },
+    {
+        "word": "Tape",
+        "meaning": "Bant"
+    },
+    {
+        "word": "Stuffed animal",
+        "meaning": "Peluş oyuncak"
+    },
+    {
+        "word": "Scooter",
+        "meaning": "Scooter"
+    },
+    {
+        "word": "Skateboard",
+        "meaning": "Kaykay"
+    },
+    {
+        "word": "Helmet",
+        "meaning": "Kask"
+    },
+    {
+        "word": "Swing",
+        "meaning": "Salıncak"
+    },
+    {
+        "word": "Slide (oyuncak)",
+        "meaning": "Kaydırak"
+    },
+    {
+        "word": "Sandbox",
+        "meaning": "Kum havuzu"
+    },
+    {
+        "word": "Dışarı (Outside",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Hill",
+        "meaning": "Tepe"
+    },
+    {
+        "word": "Lake",
+        "meaning": "Göl"
+    },
+    {
+        "word": "River",
+        "meaning": "Nehir"
+    },
+    {
+        "word": "Flower (daha fazla çeşit)",
+        "meaning": "Çiçek"
+    },
+    {
+        "word": "Tree (daha fazla çeşit)",
+        "meaning": "Ağaç"
+    },
+    {
+        "word": "Bench",
+        "meaning": "Bank"
+    },
+    {
+        "word": "Fence",
+        "meaning": "Çit"
+    },
+    {
+        "word": "Gate",
+        "meaning": "Kapı (bahçe)"
+    },
+    {
+        "word": "Puddle",
+        "meaning": "Su birikintisi"
+    },
+    {
+        "word": "Rainbow",
+        "meaning": "Gökkuşağı"
+    },
+    {
+        "word": "Giysiler (Clothes",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Pajamas",
+        "meaning": "Pijama"
+    },
+    {
+        "word": "Underwear",
+        "meaning": "İç çamaşırı"
+    },
+    {
+        "word": "Sweater",
+        "meaning": "Kazak"
+    },
+    {
+        "word": "Jeans",
+        "meaning": "Kot pantolon"
+    },
+    {
+        "word": "Shorts",
+        "meaning": "Şort"
+    },
+    {
+        "word": "Belt",
+        "meaning": "Kemer"
+    },
+    {
+        "word": "Scarf",
+        "meaning": "Atkı"
+    },
+    {
+        "word": "Mittens",
+        "meaning": "Eldiven (tek parmaklı)"
+    },
+    {
+        "word": "Boots",
+        "meaning": "Botlar"
+    },
+    {
+        "word": "Slippers",
+        "meaning": "Terlikler"
+    },
+    {
+        "word": "Button",
+        "meaning": "Düğme"
+    },
+    {
+        "word": "Zipper",
+        "meaning": "Fermuar"
+    },
+    {
+        "word": "Okul (School",
+        "meaning": "daha fazla)-"
+    },
+    {
+        "word": "Desk",
+        "meaning": "Sıra"
+    },
+    {
+        "word": "Teacher",
+        "meaning": "Öğretmen"
+    },
+    {
+        "word": "Friend",
+        "meaning": "Arkadaş"
+    },
+    {
+        "word": "Playground",
+        "meaning": "Oyun alanı"
+    },
+    {
+        "word": "Blackboard",
+        "meaning": "Kara tahta"
+    },
+    {
+        "word": "Chalk",
+        "meaning": "Tebeşir"
+    },
+    {
+        "word": "Eraser",
+        "meaning": "Silgi"
+    },
+    {
+        "word": "Diğer (Other",
+        "meaning": "daha fazla)-"
+    },
+    {
+        "word": "Umbrella",
+        "meaning": "Şemsiye"
+    },
+    {
+        "word": "Toothpaste",
+        "meaning": "Diş macunu"
+    },
+    {
+        "word": "Comb",
+        "meaning": "Tarak"
+    },
+    {
+        "word": "Brush (saç fırçası)",
+        "meaning": "Fırça (saç)"
+    },
+    {
+        "word": "Mirror (küçük)",
+        "meaning": "Ayna (küçük)"
+    },
+    {
+        "word": "Soap (daha fazla çeşit)",
+        "meaning": "Sabun"
+    },
+    {
+        "word": "Towel (daha fazla çeşit)",
+        "meaning": "Havlu"
+    },
+    {
+        "word": "Band-aid",
+        "meaning": "Yara bandı"
+    },
+    {
+        "word": "Temel Fiiller (Basic Verbs",
+        "meaning": "Daha Fazla Kelime)-"
+    },
+    {
+        "word": "Whisper",
+        "meaning": "Fısıldamak"
+    },
+    {
+        "word": "Shout",
+        "meaning": "Bağırmak (zaten listede var, vurgu için tekrar eklendi)"
+    },
+    {
+        "word": "Catch",
+        "meaning": "Yakalamak (zaten listede var, vurgu için tekrar eklendi)"
+    },
+    {
+        "word": "Throw",
+        "meaning": "Atmak (zaten listede var, vurgu için tekrar eklendi)"
+    },
+    {
+        "word": "Push",
+        "meaning": "İtmek (zaten listede var, vurgu için tekrar eklendi)"
+    },
+    {
+        "word": "Pull",
+        "meaning": "Çekmek (zaten listede var, vurgu için tekrar eklendi)"
+    },
+    {
+        "word": "Build",
+        "meaning": "İnşa etmek"
+    },
+    {
+        "word": "Paint",
+        "meaning": "Boyamak (fırça ile)"
+    },
+    {
+        "word": "Color",
+        "meaning": "Boyamak (kalemlerle)"
+    },
+    {
+        "word": "Cut",
+        "meaning": "Kesmek"
+    },
+    {
+        "word": "Paste",
+        "meaning": "Yapıştırmak"
+    },
+    {
+        "word": "Glue",
+        "meaning": "Yapıştırmak (tutkalla)"
+    },
+    {
+        "word": "Stir",
+        "meaning": "Karıştırmak (zaten listede var)"
+    },
+    {
+        "word": "Pour",
+        "meaning": "Dökmek (zaten listede var)"
+    },
+    {
+        "word": "Share",
+        "meaning": "Paylaşmak (zaten listede var)"
+    },
+    {
+        "word": "Frown",
+        "meaning": "Kaşlarını çatmak"
+    },
+    {
+        "word": "Yawn",
+        "meaning": "Esnemek (zaten listede var)"
+    },
+    {
+        "word": "Clap",
+        "meaning": "El çırpmak"
+    },
+    {
+        "word": "Pat",
+        "meaning": "Okşamak"
+    },
+    {
+        "word": "Tickle",
+        "meaning": "Gıdıklamak"
+    },
+    {
+        "word": "Kiss",
+        "meaning": "Öpmek"
+    },
+    {
+        "word": "Nod (başını sallamak)",
+        "meaning": "Başını sallamak (onay)"
+    },
+    {
+        "word": "Shake (başını sallamak)",
+        "meaning": "Başını sallamak (hayır)"
+    },
+    {
+        "word": "Whisper (tekrar)",
+        "meaning": "Fısıldamak"
+    },
+    {
+        "word": "Shout (tekrar)",
+        "meaning": "Bağırmak"
+    },
+    {
+        "word": "Watch (izlemek)",
+        "meaning": "İzlemek"
+    },
+    {
+        "word": "Let go",
+        "meaning": "Bırakmak"
+    },
+    {
+        "word": "Turn on",
+        "meaning": "Açmak (ışık vb.)"
+    },
+    {
+        "word": "Turn off",
+        "meaning": "Kapatmak (ışık vb.)"
+    },
+    {
+        "word": "Lose",
+        "meaning": "Kaybetmek"
+    },
+    {
+        "word": "Blink",
+        "meaning": "Göz kırpmak"
+    },
+    {
+        "word": "Cough",
+        "meaning": "Öksürmek"
+    },
+    {
+        "word": "Hiccup",
+        "meaning": "Hıçkırmak"
+    },
+    {
+        "word": "Kneel",
+        "meaning": "Diz çökmek"
+    },
+    {
+        "word": "Shiver",
+        "meaning": "Titremek"
+    },
+    {
+        "word": "Sniff",
+        "meaning": "Burnunu çekmek"
+    },
+    {
+        "word": "Sneeze",
+        "meaning": "Hapşırmak"
+    },
+    {
+        "word": "Swallow",
+        "meaning": "Yutmak"
+    },
+    {
+        "word": "Tap",
+        "meaning": "Hafifçe vurmak"
+    },
+    {
+        "word": "Wiggle",
+        "meaning": "Kıpırdatmak"
+    },
+    {
+        "word": "Rub",
+        "meaning": "Ovmak"
+    },
+    {
+        "word": "Scratch",
+        "meaning": "Kaşımak"
+    },
+    {
+        "word": "Shrug",
+        "meaning": "Omuz silkmek"
+    },
+    {
+        "word": "Sigh",
+        "meaning": "İç çekmek"
+    },
+    {
+        "word": "Snap (parmakları)",
+        "meaning": "Parmak şıklatmak"
+    },
+    {
+        "word": "Stomp",
+        "meaning": "Ayaklarını yere vurmak"
+    },
+    {
+        "word": "Swing (kolları/bacakları)",
+        "meaning": "Sallamak (kol/bacak)"
+    },
+    {
+        "word": "Bounce (topu)",
+        "meaning": "Sektirmek (top)"
+    },
+    {
+        "word": "Chase",
+        "meaning": "Kovalamak"
+    },
+    {
+        "word": "Dive",
+        "meaning": "Dalmak"
+    },
+    {
+        "word": "Float",
+        "meaning": "Yüzmek (suda)"
+    },
+    {
+        "word": "Gallop",
+        "meaning": "Dört nala koşmak"
+    },
+    {
+        "word": "Hang",
+        "meaning": "Asmak"
+    },
+    {
+        "word": "Leap",
+        "meaning": "Sıçramak"
+    },
+    {
+        "word": "Paddle",
+        "meaning": "Kürek çekmek"
+    },
+    {
+        "word": "Pedal",
+        "meaning": "Pedal çevirmek"
+    },
+    {
+        "word": "Race",
+        "meaning": "Yarışmak"
+    },
+    {
+        "word": "Row",
+        "meaning": "Kürek çekmek"
+    },
+    {
+        "word": "Skate",
+        "meaning": "Kaymak (buz pateni vb.)"
+    },
+    {
+        "word": "Ski",
+        "meaning": "Kayak yapmak"
+    },
+    {
+        "word": "Somersault",
+        "meaning": "Takla atmak"
+    },
+    {
+        "word": "Sprint",
+        "meaning": "Hızlı koşmak"
+    },
+    {
+        "word": "Trot",
+        "meaning": "Tırıs gitmek"
+    },
+    {
+        "word": "Vault",
+        "meaning": "Sıçrayarak geçmek"
+    },
+    {
+        "word": "Wobble",
+        "meaning": "Sallanmak"
+    },
+    {
+        "word": "Zoom (hareket olarak)",
+        "meaning": "Hızla hareket etmek"
+    },
+    {
+        "word": "What's wrong?",
+        "meaning": "Ne oldu? (üzgün bir ifade için)"
+    },
+    {
+        "word": "Are you happy?",
+        "meaning": "Mutlu musun?"
+    },
+    {
+        "word": "Are you sad?",
+        "meaning": "Üzgün müsün?"
+    },
+    {
+        "word": "Are you angry?",
+        "meaning": "Kızgın mısın?"
+    },
+    {
+        "word": "Are you scared?",
+        "meaning": "Korktun mu?"
+    },
+    {
+        "word": "I am excited!",
+        "meaning": "Çok heyecanlıyım!"
+    },
+    {
+        "word": "That's funny!",
+        "meaning": "Bu komik!"
+    },
+    {
+        "word": "I am sorry",
+        "meaning": "Üzgünüm (daha vurgulu)"
+    },
+    {
+        "word": "It's okay",
+        "meaning": "Tamam (teselli ederken)"
+    },
+    {
+        "word": "Never mind",
+        "meaning": "Boşver"
+    },
+    {
+        "word": "That's enough",
+        "meaning": "Bu kadar yeter"
+    },
+    {
+        "word": "One more, please",
+        "meaning": "Bir tane daha lütfen"
+    },
+    {
+        "word": "Can I have some more?",
+        "meaning": "Biraz daha alabilir miyim?"
+    },
+    {
+        "word": "I want to play with you",
+        "meaning": "Seninle oynamak istiyorum"
+    },
+    {
+        "word": "Let's build something",
+        "meaning": "Hadi bir şeyler inşa edelim"
+    },
+    {
+        "word": "Let's read a book",
+        "meaning": "Hadi bir kitap okuyalım"
+    },
+    {
+        "word": "Let's sing a song",
+        "meaning": "Hadi bir şarkı söyleyelim"
+    },
+    {
+        "word": "Let's go to the park",
+        "meaning": "Hadi parka gidelim"
+    },
+    {
+        "word": "Let's go home",
+        "meaning": "Hadi eve gidelim"
+    },
+    {
+        "word": "I am finished",
+        "meaning": "Ben bitirdim"
+    },
+    {
+        "word": "It's all gone",
+        "meaning": "Hepsi bitti"
+    },
+    {
+        "word": "Where did it go?",
+        "meaning": "O nereye gitti?"
+    },
+    {
+        "word": "I can't find it",
+        "meaning": "Onu bulamıyorum"
+    },
+    {
+        "word": "Help me find it",
+        "meaning": "Onu bulmama yardım et"
+    },
+    {
+        "word": "I like this one",
+        "meaning": "Bunu beğendim"
+    },
+    {
+        "word": "I don't like that one",
+        "meaning": "Onu beğenmedim"
+    },
+    {
+        "word": "This is mine",
+        "meaning": "Bu benim"
+    },
+    {
+        "word": "That is yours",
+        "meaning": "O senin"
+    },
+    {
+        "word": "It's our turn",
+        "meaning": "Bizim sıramız"
+    },
+    {
+        "word": "Can we share?",
+        "meaning": "Paylaşabilir miyiz?"
+    },
+    {
+        "word": "Be kind to your friends",
+        "meaning": "Arkadaşlarına nazik ol"
+    },
+    {
+        "word": "Wait your turn",
+        "meaning": "Sıranı bekle"
+    },
+    {
+        "word": "Good job! (daha fazla vurgu)",
+        "meaning": "Aferin!"
+    },
+    {
+        "word": "You did it!",
+        "meaning": "Yaptın!"
+    },
+    {
+        "word": "I am proud of you",
+        "meaning": "Seninle gurur duyuyorum"
+    },
+    {
+        "word": "Let me help you",
+        "meaning": "Sana yardım edeyim"
+    },
+    {
+        "word": "Thank you for being kind",
+        "meaning": "Nazik olduğun için teşekkür ederim"
+    },
+    {
+        "word": "I forgive you",
+        "meaning": "Seni affediyorum"
+    },
+    {
+        "word": "I forgive you too",
+        "meaning": "Ben de seni affediyorum"
+    },
+    {
+        "word": "Let's be friends",
+        "meaning": "Hadi arkadaş olalım"
+    },
+    {
+        "word": "I am your friend",
+        "meaning": "Ben senin arkadaşınım"
+    },
+    {
+        "word": "You are my friend",
+        "meaning": "Sen benim arkadaşımsın"
+    },
+    {
+        "word": "I miss my mommy",
+        "meaning": "Annemi özledim"
+    },
+    {
+        "word": "I miss my daddy",
+        "meaning": "Babamı özledim"
+    },
+    {
+        "word": "I want my mommy",
+        "meaning": "Annemi istiyorum"
+    },
+    {
+        "word": "I want my daddy",
+        "meaning": "Babamı istiyorum"
+    },
+    {
+        "word": "I need a hug",
+        "meaning": "Bir sarılmaya ihtiyacım var"
+    },
+    {
+        "word": "Can I have a hug?",
+        "meaning": "Sarılabilir miyim?"
+    },
+    {
+        "word": "I am feeling happy today",
+        "meaning": "Bugün mutlu hissediyorum"
+    },
+    {
+        "word": "I am feeling sad today",
+        "meaning": "Bugün üzgün hissediyorum"
+    },
+    {
+        "word": "I am feeling angry today",
+        "meaning": "Bugün kızgın hissediyorum"
+    },
+    {
+        "word": "I am feeling tired today",
+        "meaning": "Bugün yorgun hissediyorum"
+    },
+    {
+        "word": "What's the matter?",
+        "meaning": "Ne var? (endişe ile)"
+    },
+    {
+        "word": "Are you hurt?",
+        "meaning": "Canın yandı mı?"
+    },
+    {
+        "word": "Let me see",
+        "meaning": "Bir bakayım"
+    },
+    {
+        "word": "It will be okay",
+        "meaning": "İyi olacak"
+    },
+    {
+        "word": "Don't worry",
+        "meaning": "Endişelenme"
+    },
+    {
+        "word": "Everything is okay",
+        "meaning": "Her şey yolunda"
+    },
+    {
+        "word": "I love you very much",
+        "meaning": "Seni çok seviyorum"
+    },
+    {
+        "word": "You are special",
+        "meaning": "Sen özelsin"
+    },
+    {
+        "word": "You are important to me",
+        "meaning": "Benim için önemlisin"
+    },
+    {
+        "word": "Temel Vücut Parçaları (Basic Body Parts",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Eyebrows",
+        "meaning": "Kaşlar"
+    },
+    {
+        "word": "Eyelashes",
+        "meaning": "Kirpikler"
+    },
+    {
+        "word": "Cheeks",
+        "meaning": "Yanaklar"
+    },
+    {
+        "word": "Chin",
+        "meaning": "Çene"
+    },
+    {
+        "word": "Teeth",
+        "meaning": "Dişler"
+    },
+    {
+        "word": "Tongue",
+        "meaning": "Dil"
+    },
+    {
+        "word": "Lips",
+        "meaning": "Dudaklar"
+    },
+    {
+        "word": "Thumb",
+        "meaning": "Başparmak"
+    },
+    {
+        "word": "Wrist",
+        "meaning": "Bilek"
+    },
+    {
+        "word": "Ankle",
+        "meaning": "Ayak bileği"
+    },
+    {
+        "word": "Heel",
+        "meaning": "Topuk"
+    },
+    {
+        "word": "Toe nail",
+        "meaning": "Ayak tırnağı"
+    },
+    {
+        "word": "Finger nail",
+        "meaning": "El tırnağı"
+    },
+    {
+        "word": "Skin",
+        "meaning": "Cilt"
+    },
+    {
+        "word": "Bone",
+        "meaning": "Kemik"
+    },
+    {
+        "word": "Sayılar (Numbers",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Thirty",
+        "meaning": "Otuz"
+    },
+    {
+        "word": "Forty",
+        "meaning": "Kırk"
+    },
+    {
+        "word": "Fifty",
+        "meaning": "Elli"
+    },
+    {
+        "word": "Sixty",
+        "meaning": "Altmış"
+    },
+    {
+        "word": "Seventy",
+        "meaning": "Yetmiş"
+    },
+    {
+        "word": "Eighty",
+        "meaning": "Seksen"
+    },
+    {
+        "word": "Ninety",
+        "meaning": "Doksan"
+    },
+    {
+        "word": "Hundred",
+        "meaning": "Yüz"
+    },
+    {
+        "word": "Zero",
+        "meaning": "Sıfır"
+    },
+    {
+        "word": "First",
+        "meaning": "Birinci"
+    },
+    {
+        "word": "Second",
+        "meaning": "İkinci"
+    },
+    {
+        "word": "Lion",
+        "meaning": "Aslan"
+    },
+    {
+        "word": "Tiger",
+        "meaning": "Kaplan"
+    },
+    {
+        "word": "Elephant",
+        "meaning": "Fil"
+    },
+    {
+        "word": "Monkey",
+        "meaning": "Maymun"
+    },
+    {
+        "word": "Bear",
+        "meaning": "Ayı"
+    },
+    {
+        "word": "Cow",
+        "meaning": "İnek"
+    },
+    {
+        "word": "Pig",
+        "meaning": "Domuz"
+    },
+    {
+        "word": "Sheep",
+        "meaning": "Koyun"
+    },
+    {
+        "word": "Horse",
+        "meaning": "At"
+    },
+    {
+        "word": "Duck",
+        "meaning": "Ördek"
+    },
+    {
+        "word": "Chicken",
+        "meaning": "Tavuk"
+    },
+    {
+        "word": "Mouse",
+        "meaning": "Fare"
+    },
+    {
+        "word": "Rabbit",
+        "meaning": "Tavşan"
+    },
+    {
+        "word": "Frog",
+        "meaning": "Kurbağa"
+    },
+    {
+        "word": "Snake",
+        "meaning": "Yılan"
+    },
+    {
+        "word": "Bee",
+        "meaning": "Arı"
+    },
+    {
+        "word": "Ant",
+        "meaning": "Karınca"
+    },
+    {
+        "word": "Butterfly",
+        "meaning": "Kelebek"
+    },
+    {
+        "word": "Ladybug",
+        "meaning": "Uğur böceği"
+    },
+    {
+        "word": "Yiyecekler (Food",
+        "meaning": "Eklemeler)-"
+    },
+    {
+        "word": "Watermelon",
+        "meaning": "Karpuz"
+    },
+    {
+        "word": "Strawberry",
+        "meaning": "Çilek"
+    },
+    {
+        "word": "Grape",
+        "meaning": "Üzüm"
+    },
+    {
+        "word": "Pineapple",
+        "meaning": "Ananas"
+    },
+    {
+        "word": "Carrot",
+        "meaning": "Havuç"
+    },
+    {
+        "word": "Tomato",
+        "meaning": "Domates"
+    },
+    {
+        "word": "Potato",
+        "meaning": "Patates"
+    },
+    {
+        "word": "Corn",
+        "meaning": "Mısır"
+    },
+    {
+        "word": "Peas",
+        "meaning": "Bezelye"
+    },
+    {
+        "word": "Broccoli",
+        "meaning": "Brokoli"
+    },
+    {
+        "word": "Rice",
+        "meaning": "Pirinç"
+    },
+    {
+        "word": "Pasta",
+        "meaning": "Makarna"
+    },
+    {
+        "word": "Meat",
+        "meaning": "Et"
+    },
+    {
+        "word": "Chicken (yiyecek olarak)",
+        "meaning": "Tavuk"
+    },
+    {
+        "word": "Fish (yiyecek olarak)",
+        "meaning": "Balık"
+    },
+    {
+        "word": "Soup",
+        "meaning": "Çorba"
+    },
+    {
+        "word": "Ice cream",
+        "meaning": "Dondurma"
+    },
+    {
+        "word": "Yogurt",
+        "meaning": "Yoğurt"
+    },
+    {
+        "word": "Bus",
+        "meaning": "Otobüs"
+    },
+    {
+        "word": "Bike",
+        "meaning": "Bisiklet"
+    },
+    {
+        "word": "Boat",
+        "meaning": "Tekne"
+    },
+    {
+        "word": "Airplane",
+        "meaning": "Uçak"
+    },
+    {
+        "word": "Yerler (Places",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "Park",
+        "meaning": "Park"
+    },
+    {
+        "word": "School",
+        "meaning": "Okul"
+    },
+    {
+        "word": "Store",
+        "meaning": "Mağaza"
+    },
+    {
+        "word": "Beach",
+        "meaning": "Plaj"
+    },
+    {
+        "word": "Zoo",
+        "meaning": "Hayvanat bahçesi"
+    },
+    {
+        "word": "Catch",
+        "meaning": "Yakalamak (zaten listede var, vurgu için tekrar eklendi)"
+    },
+    {
+        "word": "Ride (a bike)",
+        "meaning": "(Bisiklet) sürmek"
+    },
+    {
+        "word": "Dig",
+        "meaning": "Kazmak (zaten listede var)"
+    },
+    {
+        "word": "Throw",
+        "meaning": "Atmak (zaten listede var)"
+    },
+    {
+        "word": "What happened?",
+        "meaning": "Ne oldu?"
+    },
+    {
+        "word": "Are you okay?",
+        "meaning": "İyi misin?"
+    },
+    {
+        "word": "I am happy to see you",
+        "meaning": "Seni gördüğüme sevindim."
+    },
+    {
+        "word": "Can I play too?",
+        "meaning": "Ben de oynayabilir miyim?"
+    },
+    {
+        "word": "It's my turn",
+        "meaning": "Benim sıram"
+    },
+    {
+        "word": "Your turn",
+        "meaning": "Senin sıran"
+    },
+    {
+        "word": "Let's share",
+        "meaning": "Hadi paylaşalım"
+    },
+    {
+        "word": "Be nice",
+        "meaning": "Kibar ol"
+    },
+    {
+        "word": "Say please",
+        "meaning": "Lütfen de"
+    },
+    {
+        "word": "Say thank you",
+        "meaning": "Teşekkür et"
+    },
+    {
+        "word": "I need to go to the bathroom",
+        "meaning": "Tuvalete gitmem gerekiyor."
+    },
+    {
+        "word": "I am all done",
+        "meaning": "Ben bitirdim."
+    },
+    {
+        "word": "More, please",
+        "meaning": "Biraz daha lütfen."
+    },
+    {
+        "word": "All done",
+        "meaning": "Hepsi bitti."
+    },
+    {
+        "word": "Help me open this",
+        "meaning": "Bunu açmama yardım et."
+    },
+    {
+        "word": "Help me close this",
+        "meaning": "Bunu kapatmama yardım et."
+    },
+    {
+        "word": "I",
+        "meaning": "Ben"
+    },
+    {
+        "word": "You",
+        "meaning": "Sen"
+    },
+    {
+        "word": "He",
+        "meaning": "O (erkek)"
+    },
+    {
+        "word": "She",
+        "meaning": "O (kadın)"
+    },
+    {
+        "word": "It",
+        "meaning": "O (cansız/hayvan)"
+    },
+    {
+        "word": "We",
+        "meaning": "Biz"
+    },
+    {
+        "word": "They",
+        "meaning": "Onlar"
+    },
+    {
+        "word": "Soru Kelimeleri (Question Words",
+        "meaning": "Ek)-"
+    },
+    {
+        "word": "How many?",
+        "meaning": "Kaç tane?"
+    },
+    {
+        "word": "How old?",
+        "meaning": "Kaç yaşında?"
+    },
+    {
+        "word": "Bağlaçlar (Conjunctions",
+        "meaning": "Temel)-"
+    },
+    {
+        "word": "And",
+        "meaning": "Ve"
+    },
+    {
+        "word": "But",
+        "meaning": "Ama"
+    },
+    {
+        "word": "Or",
+        "meaning": "Veya"
+    },
+    {
+        "word": "Good morning, sunshine!",
+        "meaning": "Günaydın, güneşim!"
+    },
+    {
+        "word": "Time to get up!",
+        "meaning": "Kalkma zamanı!"
+    },
+    {
+        "word": "Did you sleep well?",
+        "meaning": "İyi uyudun mu?"
+    },
+    {
+        "word": "I had a good dream.",
+        "meaning": "Güzel bir rüya gördüm."
+    },
+    {
+        "word": "What do you want for breakfast?",
+        "meaning": "Kahvaltıda ne istersin?"
+    },
+    {
+        "word": "Let's eat breakfast.",
+        "meaning": "Hadi kahvaltı yapalım."
+    },
+    {
+        "word": "This is yummy!",
+        "meaning": "Bu çok lezzetli!"
+    },
+    {
+        "word": "Can I have some more juice?",
+        "meaning": "Biraz daha meyve suyu alabilir miyim?"
+    },
+    {
+        "word": "I am still hungry.",
+        "meaning": "Hala açım."
+    },
+    {
+        "word": "I am all finished with my breakfast.",
+        "meaning": "Kahvaltımı bitirdim."
+    },
+    {
+        "word": "Time to brush your teeth.",
+        "meaning": "Dişlerini fırçalama zamanı."
+    },
+    {
+        "word": "Let's wash your face.",
+        "meaning": "Hadi yüzünü yıkayalım."
+    },
+    {
+        "word": "Get dressed, please.",
+        "meaning": "Lütfen giyin."
+    },
+    {
+        "word": "Where are your shoes?",
+        "meaning": "Ayakkabıların nerede?"
+    },
+    {
+        "word": "Let's go outside.",
+        "meaning": "Hadi dışarı çıkalım."
+    },
+    {
+        "word": "What do you want to play?",
+        "meaning": "Ne oynamak istersin?"
+    },
+    {
+        "word": "Can we play with...?",
+        "meaning": "... ile oynayabilir miyiz?"
+    },
+    {
+        "word": "Let's play hide-and-seek.",
+        "meaning": "Hadi saklambaç oynayalım."
+    },
+    {
+        "word": "It's your turn to hide.",
+        "meaning": "Saklanma sırası sende."
+    },
+    {
+        "word": "I found you!",
+        "meaning": "Seni buldum!"
+    },
+    {
+        "word": "Let's build a tower.",
+        "meaning": "Hadi bir kule yapalım."
+    },
+    {
+        "word": "Be careful, it might fall.",
+        "meaning": "Dikkatli ol, düşebilir."
+    },
+    {
+        "word": "Can you help me?",
+        "meaning": "Bana yardım edebilir misin?"
+    },
+    {
+        "word": "Thank you for helping me.",
+        "meaning": "Bana yardım ettiğin için teşekkür ederim."
+    },
+    {
+        "word": "I want to show you something.",
+        "meaning": "Sana bir şey göstermek istiyorum."
+    },
+    {
+        "word": "Look what I made!",
+        "meaning": "Bak ne yaptım!"
+    },
+    {
+        "word": "That's so cool!",
+        "meaning": "Bu çok havalı!"
+    },
+    {
+        "word": "Can I try?",
+        "meaning": "Deneyebilir miyim?"
+    },
+    {
+        "word": "It's my turn now.",
+        "meaning": "Şimdi benim sıram."
+    },
+    {
+        "word": "Let's share our toys.",
+        "meaning": "Oyuncaklarımızı paylaşalım."
+    },
+    {
+        "word": "This is my favorite toy.",
+        "meaning": "Bu benim en sevdiğim oyuncak."
+    },
+    {
+        "word": "I like playing with you.",
+        "meaning": "Seninle oynamayı seviyorum."
+    },
+    {
+        "word": "Let's clean up our toys.",
+        "meaning": "Hadi oyuncaklarımızı toplayalım."
+    },
+    {
+        "word": "Where does this go?",
+        "meaning": "Bu nereye gidiyor?"
+    },
+    {
+        "word": "Put it in the box.",
+        "meaning": "Onu kutuya koy."
+    },
+    {
+        "word": "Everything is tidy now.",
+        "meaning": "Şimdi her şey düzenli."
+    },
+    {
+        "word": "Time for a snack.",
+        "meaning": "Atıştırma zamanı."
+    },
+    {
+        "word": "What would you like for a snack?",
+        "meaning": "Atıştırmalık olarak ne istersin?"
+    },
+    {
+        "word": "Can I have a cookie?",
+        "meaning": "Bir kurabiye alabilir miyim?"
+    },
+    {
+        "word": "Let's read a story.",
+        "meaning": "Hadi bir hikaye okuyalım."
+    },
+    {
+        "word": "Which book do you want to read?",
+        "meaning": "Hangi kitabı okumak istersin?"
+    },
+    {
+        "word": "This story is funny!",
+        "meaning": "Bu hikaye komik!"
+    },
+    {
+        "word": "I like this part.",
+        "meaning": "Bu kısmı beğendim."
+    },
+    {
+        "word": "What happens next?",
+        "meaning": "Sonra ne oluyor?"
+    },
+    {
+        "word": "Time for a nap.",
+        "meaning": "Öğle uykusu zamanı."
+    },
+    {
+        "word": "Let's lie down.",
+        "meaning": "Hadi uzanalım."
+    },
+    {
+        "word": "Close your eyes.",
+        "meaning": "Gözlerini kapat."
+    },
+    {
+        "word": "Sweet dreams!",
+        "meaning": "Tatlı rüyalar!"
+    },
+    {
+        "word": "Did you have a good nap?",
+        "meaning": "İyi bir öğle uykusu uyudun mu?"
+    },
+    {
+        "word": "Time to wake up.",
+        "meaning": "Uyanma zamanı."
+    },
+    {
+        "word": "Let's go for a walk.",
+        "meaning": "Hadi yürüyüşe çıkalım."
+    },
+    {
+        "word": "Hold my hand.",
+        "meaning": "Elimi tut."
+    },
+    {
+        "word": "Look at the birds!",
+        "meaning": "Kuşlara bak!"
+    },
+    {
+        "word": "That flower smells nice.",
+        "meaning": "O çiçeğin kokusu güzel."
+    },
+    {
+        "word": "Let's go to the park.",
+        "meaning": "Hadi parka gidelim."
+    },
+    {
+        "word": "Can we go on the swings?",
+        "meaning": "Salıncaklara binebilir miyiz?"
+    },
+    {
+        "word": "Push me, please.",
+        "meaning": "Lütfen beni it."
+    },
+    {
+        "word": "Be careful on the slide.",
+        "meaning": "Kaydırakta dikkatli ol."
+    },
+    {
+        "word": "Let's go home now.",
+        "meaning": "Hadi şimdi eve gidelim."
+    },
+    {
+        "word": "Time for dinner.",
+        "meaning": "Akşam yemeği zamanı."
+    },
+    {
+        "word": "What's for dinner?",
+        "meaning": "Akşam yemeğinde ne var?"
+    },
+    {
+        "word": "This smells delicious!",
+        "meaning": "Bu çok lezzetli kokuyor!"
+    },
+    {
+        "word": "Can I have some more, please?",
+        "meaning": "Biraz daha alabilir miyim lütfen?"
+    },
+    {
+        "word": "I am full.",
+        "meaning": "Doydum."
+    },
+    {
+        "word": "Thank you for the delicious dinner.",
+        "meaning": "Lezzetli akşam yemeği için teşekkür ederim."
+    },
+    {
+        "word": "Time for a bath.",
+        "meaning": "Banyo zamanı."
+    },
+    {
+        "word": "Let's wash your hair.",
+        "meaning": "Hadi saçını yıkayalım."
+    },
+    {
+        "word": "The water is warm.",
+        "meaning": "Su ılık."
+    },
+    {
+        "word": "Let's dry you off.",
+        "meaning": "Hadi seni kurulayalım."
+    },
+    {
+        "word": "Put on your pajamas.",
+        "meaning": "Pijamalarını giy."
+    },
+    {
+        "word": "Time for bed.",
+        "meaning": "Yatma zamanı."
+    },
+    {
+        "word": "Let's read one more story.",
+        "meaning": "Hadi bir hikaye daha okuyalım."
+    },
+    {
+        "word": "I love you very much.",
+        "meaning": "Seni çok seviyorum."
+    },
+    {
+        "word": "Good night, sleep tight.",
+        "meaning": "İyi geceler, mışıl mışıl uyu."
+    },
+    {
+        "word": "See you in the morning.",
+        "meaning": "Sabah görüşürüz."
+    }
+]
