@@ -48,8 +48,12 @@ def generate_image(prompt, output_path):
         print(f"[HATA] {prompt} → {e}")
 
 # === 5. Üretim Döngüsü ===
-for entry in words:
-    word = entry["word"] if isinstance(entry, dict) else entry
+for i, entry in enumerate(words):
+    try:
+        word = entry["word"] if isinstance(entry, dict) else entry
+    except KeyError:
+        print(f"[HATA] Kelime listesinde {i}. giriş hatalı, 'word' anahtarı bulunamadı: {entry}")
+        continue
     prompt = create_prompt(word)
     filename = f"{word.replace(' ', '_')}.png"
     path = os.path.join(output_dir, filename)
