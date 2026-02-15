@@ -12,7 +12,7 @@ output_dir = "outputs_flashcards_v2"
 os.makedirs(output_dir, exist_ok=True)
 
 # === 2. Kelime Listesi ===
-word_list_path = r"C:\Users\ilker\Desktop\python\python_projects\EnglishFlashCard_project\wordLists\word_list.json"
+word_list_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "wordLists", "word_list.json")
 
 with open(word_list_path, "r", encoding="utf-8") as file:
     words = json.load(file)
@@ -48,7 +48,8 @@ def generate_image(prompt, output_path):
         print(f"[HATA] {prompt} → {e}")
 
 # === 5. Üretim Döngüsü ===
-for word in words:
+for entry in words:
+    word = entry["word"] if isinstance(entry, dict) else entry
     prompt = create_prompt(word)
     filename = f"{word.replace(' ', '_')}.png"
     path = os.path.join(output_dir, filename)
